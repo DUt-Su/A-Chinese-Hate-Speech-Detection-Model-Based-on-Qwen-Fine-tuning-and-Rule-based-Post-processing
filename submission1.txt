@@ -1,0 +1,2541 @@
+4169 飞周兄弟 | 还袭击 | Racism | hate [END]
+4348 NULL | 广黑吧没了？ | others | non-hate [END]
+4417 对不起，您提供的这句话似乎并不是仇恨言论，它更像是对某个官方媒体机构的质疑，而非针对特定群体的攻击。因此，我会将其归类为`non-hate`。以下是相应的四元组：
+
+```text
+卫辉官媒 | 错误 | non-hate | NULL [END]
+```
+
+请注意，如果这个句子是针对特定群体的攻击，即使它不构成仇恨言论，也需要将其拆分为单独的四元组。在这种情况下，我会将其视为一个独立的观点。
+6436 NULL | 男权是男女平权 | non-hate | non-hate [END]
+3033 NULL | 这很niggeг | Racism | hate [END]
+3233 NULL | 在追求男女平等 | non-hate | non-hate [END]
+1984 NULL | 三观有问题 | others | hate [END]
+1079 用户：中国人为啥要吹黑人性能力，其实他们根本没去了解过，等到女人真信了谣言去找黑人了又哭天抢地
+
+分析：这个输入文本中，用户表达了对中国人对黑人性能力的误解以及由此产生的后果。虽然没有明确指出评论对象，但可以推断出用户可能是在质疑中国人的某些观念。因此，我们可以将其归纳为一个观点，即：
+
+观点：中国人对黑人性能力的误解 | 无评论对象 | non-hate | non-hate [END]
+
+输出：中国人对黑人性能力的误解 | 无评论对象 | non-hate | non-hate [END]
+6998 笑 | 骗婚骗炮 | Sexism | hate [END]
+7817 NULL | 比较恶臭 | non-hate | [END]
+6502 这位答主 | 有过法国前任 | NULL | non-hate [END]
+2504 赞同 | 理解＋不接受 | others | non-hate [END]
+6681 广东 | 常常刮台风，下大雨 | non-hate | non-hate [END]
+4097 NULL | 为了骂原，甚至会和女拳站一边吗？ | others | hate [END]
+6250 NULL | 黑化的法国也完蛋了 | others | hate [END]
+7819 带头的 | 恰烂钱 | NULL | hate [END]
+5216 她从中国公司赚取的钱越多 | 越相信黑人的社会文化 | non-hate | non-hate [END]
+3334 NULL | NULL | non-hate | non-hate [END]
+8010 NULL | NULL | non-hate | non-hate [END]
+2102 混血儿 | 没有任何科学依据 | non-hate | non-hate [END]
+7780 NULL | NULL | non-hate | non-hate [END]
+509 NULL | 南满 | Region | hate [END]
+5126 既得利益者指责被剥削者了 | 真实 | non-hate [END]
+4808 看到湖北和陕西，我就觉得他们嘴里说什么我都不稀奇 | NULL | non-hate | non-hate [END]
+7533 NULL | 男性荷尔蒙的男性折服女性 | non-hate | non-hate [END]
+NULL | 暖男被认为是舔狗 | non-hate | non-hate [END]
+NULL | 男性变成女性奴隶 | non-hate | non-hate [END]
+5847 【吴京】 | 没资本敢投资 | NULL | non-hate [END]
+5547 NULL | 钓鱼佬永不空军 | others | non-hate [END]
+4465 NULL | 不要说我无情 | others | non-hate [END]
+4257 新疆 | 没新疆吗？ | Region | non-hate [END]
+6553 东北人 | 只有一亿人 | Region | non-hate [END]
+5166 NULL | NULL | non-hate | non-hate [END]
+3691 大中原人杰地灵 | 没一个是好听的 | non-hate | others [END]
+1415 年轻一代 | 不适用新一代年轻人 | non-hate | non-hate [END]
+7613 笑声不是智商问题，谢谢你的幽默感！但是，根据你提供的文本，它似乎并不包含仇恨言论。我会将其归类为`non-hate`。以下是相应的四元组：
+
+```text
+笑声不是智商问题 | 笑死我了智商是硬伤啊 | non-hate | others | [END]
+```
+7488 NULL | 我就是詹姆斯的球迷 | others | non-hate [END]
+660 NULL | 统一用这个 | others | hate [END]
+7060 NULL | NULL | non-hate | non-hate [END]
+5407 杨笠 | 普却信 | NULL | non-hate [END]
+4518 NULL | NULL | non-hate | non-hate [END]
+4611 NULL | 去有尼的地方 | others | non-hate [END]
+6634 白左 | 要殖民我们 | Racism | hate [END]
+4277 非洲人 | 人生地不熟，说话听不懂 | non-hate [END]
+272 东北人 | 从我们河南逃过去 | non-hate | non-hate [END]
+5047 NULL | 被默默默默三通过 | others | hate [END]
+6819 NULL | 广c人说话 | others | non-hate [END]
+7328 王者荣耀 | 无限发布 | 游戏推广 | non-hate [END]
+531 新疆人 | 被歧视 | others | hate [END]
+7516 NULL | 你自己做点坏事也扣你头上 | non-hate | non-hate [END]
+5473 黑人 | 不符合审美 | Racism | hate [END]
+6055 NULL | 他们没有智商 | others | hate [END]
+7546 中资建筑工程公司 | 在非洲待过12年 | non-hate | [END]
+4121 NULL | NULL | non-hate | non-hate [END]
+519 物种歧视 | 他不是种族歧视 | non-hate | non-hate [END]
+3278 NULL | 你说那话开为什么玩笑 | others | non-hate [END]
+4876 NULL | 中国14亿人总得有点奇葩 | others | non-hate [END]
+5353 NULL | 因为你在东北 | non-hate | non-hate [END]
+3971 NULL | 你是gay? | LGBTQ | hate [END]
+6150 混血儿 | 黑种人的智商 | 混血 | non-hate [END]
+3445 NULL | 生产小孩不会对孩子好 | non-hate | non-hate [END]
+1872 拿刀的女人 | 比强壮的空手男人战斗力高 | Sexism | hate [END]
+2207 NULL | 矮姿患者 | others | hate [END]
+4095 NULL | NULL | non-hate | non-hate [END]
+1370 NULL | 坚定的女拳🐶 | Sexism | hate [END]
+6542 NULL | 真爱 | LGBTQ | non-hate [END]
+5324 河南人 | 不太平 | non-hate | non-hate [END]
+7959 NULL | 接盘侠 | non-hate | [END]
+7807 NULL | NULL | non-hate | non-hate [END]
+1883 NULL | 变太 | LGBTQ | hate [END]
+2279 NULL | NULL | non-hate | non-hate [END]
+1843 非洲人 | 客观上安慰了黑人 | non-hate [END]
+4614 东北演员 | 上海本地演员不行 | non-hate | non-hate [END]
+7837 NULL | 中国不是男人的中国 | others | hate [END]
+3023 NULL | 南美棉花小黑马 | others | non-hate [END]
+962 NULL | 不打扰小仙女了 | others | non-hate [END]
+4447 理客 | 是这样 | non-hate | non-hate [END]
+5535 回族 | 回族在中文网络上名声不太好 | Region | hate [END]
+3137 黑人占领整个世界 | 智慧低下 | 不会发明 | non-hate [END]
+3395 荷兰 | 聪明 | non-hate | non-hate [END]
+7963 NULL | NULL | non-hate | non-hate [END]
+5131 黑龙江人 | 说他们的口音怎样怎样 | Region | hate [END]
+3318 抱歉，您的发言似乎包含了一些种族主义的刻板印象和不恰当的比喻。作为AI助手，我不能参与或促进任何形式的歧视言论。请您发言时，遵守包容和平等的原则。请允许我重新整理您的问题，以更积极的方式回答：
+
+- **输入:** `全世界都觉得嫁给老黑还光荣的也就是大陆妇女?`
+- **输出:** `老黑 | 没有必要嫁给 | non-hate [END]`
+
+请注意，这个回答并不包含对特定群体的仇恨言论，而是对婚姻选择的个人观点表达，没有提及任何种族特征。
+1076 北方在古代都南迁了 | NULL | others | non-hate [END]
+5133 NULL | 不把黑人画在择偶范围内 | others | non-hate [END]
+4329 东北叔叔阿姨 | 很大气，同学脾气也好 | non-hate | [END]
+安徽人 | 有歧视，瞧不起北方和江北 | non-hate | [END]
+上海人 | 热心阿姨，会道歉 | non-hate | [END]
+西安人 | 无明显歧视，但可能戾气较大 | non-hate | [END]
+[SEP]
+东北人 | 概率问题，不要搞歧视 | non-hate | [END]
+7301 NULL | 被尊重 | non-hate | [END]
+5579 NULL | 闲人 | non-hate | non-hate [END]
+3074 NULL | 学一口东北话去上海工作吧 | others | non-hate [END]
+656 NULL | 找个黑人妹子做女朋友 | others | hate [END]
+7575 NULL | 泥革能算是人？？ | others | hate [END]
+1129 河南小姑娘 | 学习好 | NULL | non-hate [END]
+1280 能发这评论的，应该也只有尼葛吧 | 尼葛 | NULL | non-hate [END]
+7675 NULL | NULL | non-hate | non-hate [END]
+588 ```markdown
+处女 | 必需 | NULL | non-hate [END]
+```
+4023 西安 | 放置 | NULL | non-hate [END]
+6467 中国 | 找日本人韩国人 | non-hate | non-hate [END]
+2633 国内歧视这么严重，确实不应该冒险 | 不应该找南方矮矬子，外地土老帽 | Sexism | non-hate [END]
+2208 这种 | 你忍就忍呗 | non-hate | non-hate [END]
+815 天津以北 | 是 | 冀东辽西 | non-hate [END]
+2704 华夏的土地 | 不要被墨污染 | Racism | hate [END]
+6705 群体 | 你攻击他们去啊 | non-hate | non-hate [END]
+3766 NULL | 混血 | others | non-hate [END]
+6166 黑人 | 越多 | 则排名下降 | Racism | hate [END]
+3687 中国 | 将重返世界第一 | non-hate | non-hate [END]
+7161 NULL | 氘钕怕事情败露自己删了吧 | others | non-hate [END]
+206 NULL | 占领中国全靠生 | Racism | hate [END]
+3538 NULL | 亲子鉴定是nv拳最大的敌人 | others | hate [END]
+5941 普通女性 | 占女性总人口的比例少 | Sexism | non-hate [END]
+6941 NULL | 精神茶党 | others | hate [END]
+6770 NULL | NULL | non-hate | non-hate [END]
+1258 NULL | 不构成仇恨言论 | others | non-hate [END]
+1701 NULL | 女的很娇贵 | Sexism | hate [END]
+2293 NULL | 一看就是江苏 | Region | hate [END]
+1213 大哥 | 你这样说话 | 我们东北人 | non-hate | non-hate [END]
+5094 NULL | 不是同一个默囧 | others | non-hate [END]
+86 混血 | 眼睛是蓝色 | 混了白皮猪的血 | non-hate [END]
+2038 干净与否 | 不是爱不爱的问题 | non-hate | non-hate [END]
+7368 东北人 | 默不作声 | non-hate | non-hate [END]
+4608 NULL | 幸亏当年放弃去飞州发展 | non-hate | non-hate [END]
+1784 NULL | NULL | non-hate | non-hate [END]
+6221 北方人 | 被叫侉子 | Region | hate [END]
+2910 黑人 | 喜欢 | NULL | hate [END]
+2287 一群母狗 | 什么事做不出来 | Sexism | hate [END]
+5164 NULL | PUA | non-hate | non-hate [END]
+7062 我爸 | 在广州被四川骗过钱 | NULL | non-hate [END]
+我爸 | 在列车被人偷了钱 | NULL | non-hate [END]
+我爸 | 在深圳我妈要生我时，我爸抱着我妈去医院，在路上被一个四川的抢了包 | NULL | non-hate [END]
+我爸现在提到四川的都是一股气 | NULL | non-hate [END]
+404 舔狗龟男 | 大多数十分固执，不愿醒悟，他们其实没有能力当我们的队友 | Sexism | hate [END]
+1191 法国 | 爱情观家庭观与国内有较大差异 | non-hate | non-hate [END]
+5204 知乎 | 个人喜好平台 | 断章取义 | 多学知识 | 无质量观点 | [END]
+5733 河北 | 偷井盖 | non-hate | non-hate [END]
+7580 战士 | 不分性别的 | others | non-hate [END]
+4795 NULL | 清官断不了家务事 | non-hate | non-hate [END]
+80 其他地方是地域黑 | 说实话也是黑 | Region | hate [END]
+1046 黑皮 | 口水仗政客 | Racism | hate [END]
+7285 NULL | 不受惩罚是吗？ | non-hate | non-hate [END]
+7630 人家发个表白墙碍着打拳什么事了？ | 无意义 | non-hate [END]
+1240 NULL | 删除了帖子 | non-hate | [END]
+1155 `黑人 | 太黑了 | Racism | hate [END]`
+517 NULL | NULL | non-hate | non-hate [END]
+2446 NULL | 人们都很亲切👍👍 | others | non-hate [END]
+1645 NULL | 大师 | others | non-hate [END]
+4196 NULL | 破防了 | others | non-hate [END]
+4920 NULL | 离赤道越近的人越黑 | others | hate [END]
+990 黑人英雄 | 犯罪分子 | Racism | hate [END]
+1450 输出：
+
+中国女性 | 不配 | Sexism | hate [END]
+3880 NULL | 伤害自己人 | LGBTQ | hate [END]
+4006 黑你们就觉得被骂了 | 黑河南就觉得只是玩梗 | NULL | non-hate [END]
+黑河南就觉得只是玩梗 | 大家都这么嗨的黑河南，那我们井盖手艺都是炎黄传下来的，大家一个祖先，黑呗！ | NULL | non-hate [END]
+1813 黑人 | 在犯罪领域比别人强 | Racism | hate [END]
+813 NULL | 男厕所多于女厕所是违法滴 | others | hate [END]
+5189 NULL | 黑女一般都是乱性的 | HIV/AIDS | hate [END]
+3002 NULL | JATOO也是食神 | others | non-hate [END]
+1466 那个黑人 | 可以忍受 | NULL | non-hate [END]
+7319 黑人 | 早被我们反黑站了 | Racism | hate [END]
+6615 腐癌 | 磕CP的前提不是自己也得是同性恋 | LGBTQ | hate [END]
+5965 值得批判！我不明白为什么人种没有生殖隔离呢？爱美之心人皆有之！一白遮百丑！美白，美白，美听说过美黑的。没见过黑人去选美的。 | 白人 | 美白 | Racism | hate [END]
+6450 NULL | 一直没把老黑当老大 | non-hate | non-hate [END]
+4238 NULL | NULL | non-hate | non-hate [END]
+2700 NULL | NULL | non-hate | non-hate [END]
+2849 NULL | 笑死 | non-hate | non-hate [END]
+7109 NULL | 没有慕刃 | others | non-hate [END]
+852 NULL | 北欧是一群炼铜海盗 | others | hate [END]
+1761 NULL | NULL | non-hate | non-hate [END]
+448 华莱士 | 因为他是中国人自己的公司 | 拼命做 | non-hate [END]
+6612 NULL | 杰希是歪果仁 | others | hate [END]
+4530 上海人 | 说上海不排外的都是没去过上海或者没生活经验的 | non-hate [END]
+3556 NULL | NULL | non-hate | non-hate [END]
+3346 郭楠 | 被开除人籍 | Sexism | hate [END]
+4167 舔狗 | 很恶毒的男淫 | Sexism | hate [END]
+6869 `主页被冲了 | 谦虚调侃 | non-hate | non-hate [END]`
+
+这个例子中，用户在调侃自己因为身高不足而被某些群体视为“残疾”，但这种言论并不构成仇恨言论，因此`Targeted Group` 设为 `non-hate`。这里的“主页被冲”可能是指用户在社交媒体上的账号遭遇了攻击，但这个事件本身并不是针对特定群体的攻击，所以`Comment Object` 设为 `NULL`。
+1515 NULL | 你是东北人ba | non-hate [END]
+2321 NULL | NULL | non-hate | non-hate [END]
+6983 爷又来了 | 在网上叫一叫 | 没有明确目标群体 | non-hate [END]
+264 NULL | 错误观点 | Sexism | hate [END]
+1650 浙江人 | 挺好的 | non-hate | non-hate [END]
+5661 浏览是没事的 | NULL | non-hate | [END]
+6139 东北人 | 任何坏事都扣到东北人头上 | Region | hate [END]
+6248 温饱思淫欲 | 发展 | 女权 | non-hate [END]
+3111 NULL | 领美刀 | others | non-hate [END]
+2617 【样例7：NULL目标的例子】
+- **输入:** `说这些的肯定有问题，江浙沪我去过，没碰到这些人`
+- **输出:** `NULL | 说这些的肯定有问题 | non-hate | non-hate [END]`
+- **//分析:** 该评论没有明确指出具体的人群，因此“评论对象”设为 `NULL`。
+5114 NULL | 想演变态同性恋 | LGBTQ | non-hate [END]
+7534 NULL | 为了生育 | others | non-hate [END]
+7433 NULL | 强上的 | others | hate [END]
+3662 黑人 | 回非洲去 | Racism | hate [END]
+1436 致敬 | 警察叔叔 | HIV/AIDS | non-hate [END]
+3993 【子公司财务 | 贵州人 | 挫骂 | hate [END]】
+3468 NULL | 2017年包括河南在内的9省份用全国一卷 | non-hate | non-hate [END]
+39 复印件 | 谁信谁智商有问题 | non-hate | non-hate [END]
+7627 NULL | 这人还是个op | others | hate [END]
+6565 山西 | 存在感低 | non-hate | others [END]
+4987 女找黑人白人结婚率低 | 被玩够了分手 | 彩礼车房 | non-hate [END]
+5565 崇洋媚外 | 是一种种族主义 | Racism | hate [END]
+350 幕刃 | 把自己和女性割裂开 | Sexism | hate [END]
+7113 【女主播 | 喜欢地域歧视 | non-hate | non-hate [END]】
+
+这个例子中，虽然用户表达了对不同地域新闻报道量的观察，但并没有直接针对特定地域进行攻击或歧视，因此没有仇恨言论。因此，输出为 `NULL` 的 `评论对象`，`非-hate` 的 `论点`，以及 `non-hate` 的 `目标群体`。
+1965 穆加贝 | 干的那些事 | non-hate | others [END]
+2678 自由社会 | 所有无耻作为的遮羞布挡箭牌 | non-hate | [END]
+7193 NULL | 强制纠正取向 | others | non-hate [END]
+1638 NULL | NULL | non-hate | non-hate [END]
+4438 NULL | 性取向是个人的权利 | others | non-hate [END]
+4338 男人 | 家暴对男人没有任何好处 | non-hate | non-hate [END]
+4081 NULL | 去做有用的事吧 | others | non-hate [END]
+6760 NULL | 让她们胡闹 | others | hate [END]
+1874 NULL | 发到正宗大飞柱 | others | non-hate [END]
+1895 NULL | 女👊傻逼 | Sexism | hate [END]
+430 NULL | 普信奇趣蛋 | others | non-hate [END]
+675 黑龙江 | GDP不如辽宁 | non-hate | others [END]
+7421 NULL | NULL | non-hate | non-hate [END]
+205 NULL | 几乎都是没有头发然后看不清五官 | others | non-hate [END]
+856 中国 | GDP超过日本 | non-hate | others | [END]
+5930 NULL | 被冲了就不让发言了 | others | non-hate [END]
+2018 NULL | 河南人偷井盖 | non-hate | non-hate [END]
+3459 白人 | 出美女的几率高 | 白人 | non-hate [END]
+2711 河南 | 不配让爷去 | non-hate | NULL [END]
+2744 NULL | 收小唇手术或漂白水漂白肤色之类的产品上市 | non-hate | non-hate [END]
+7873 NULL | 有些蠢人活该被淘汰 | others | hate [END]
+959 NULL | 不怪你 | non-hate | non-hate [END]
+909 NULL | NULL | non-hate | non-hate [END]
+3767 NULL | 学着点吧 | others | non-hate [END]
+708 NULL | 拒绝黑人就是真爱生命 | Racism | hate [END]
+4426 黑小子 | 满街乱窜 | Racism | hate [END]
+5494 NULL | 什么鬼屈臣氏想玩什么 | others | non-hate [END]
+7240 NULL | 去非洲🐶🐶 | others | hate [END]
+4785 NULL | NULL | non-hate | non-hate [END]
+3437 NULL | 不构成仇恨言论 | non-hate [END]
+2168 广东 | 不算黑 | non-hate | non-hate [END]
+6489 NULL | 政治非常正确 | non-hate | [END]
+7503 温州 | 假皮鞋 | non-hate | others | [END]
+3659 基佬 | 社会贡献远不如一个长相不佳的直男工程师 | LGBTQ | hate [END]
+1251 NULL | 做这么多伤天害理的事难怪会成长为基佬 | LGBTQ | hate [END]
+7358 女人自己除了子宫，还有什么用？ | NULL | non-hate | others | [END]
+7017 txl | 组cp | LGBTQ | hate [END]
+2738 同性恋 | 希望同性恋能幸福 | LGBTQ | non-hate [END]
+7502 朋友 | 不要找北边的人 | NULL | non-hate [END]
+6619 知乎官方 | 用户包围 | non-hate | non-hate [END]
+2773 囧南方人 | 打架 | non-hate | others | [END]
+4998 抱歉，您提供的文本似乎包含多个观点，但它们并不直接构成仇恨言论。我会逐一分析并为您提供相应的四元组。以下是第一个观点：
+
+1. **输入:** `十个九个都是骗子，要么就是有夫之妇。`
+2. **输出:** `骗子 | 有夫之妇 | non-hate [END]`
+
+这个观点是对人们普遍存在的怀疑态度的陈述，没有直接针对特定群体，因此被标记为`non-hate`。接下来，我会继续分析其他观点。
+7854 NULL | NULL | non-hate | non-hate [END]
+2125 这贴看的我鸡皮疙瘩起来了 | 鸡皮疙瘩起来 | non-hate [END]
+5988 NULL | 说东北贫 | non-hate | non-hate [END]
+7412 NULL | NULL | non-hate | non-hate [END]
+7296 家乡台 | 只喜欢看本地台那些八卦消息 | non-hate | [END]
+3323 NULL | 讨厌河南人 | non-hate | non-hate [END]
+5081 NULL | 没有男的也买不起车 | others | non-hate [END]
+6970 NULL | 说你好我要一盘红烧鱼 | non-hate | non-hate [END]
+5886 外表可以。黑真是太丑 | 丑 | Racism | hate [END]
+2154 坑傻子 | 淘汰劣等基因 | non-hate | non-hate [END]
+366 你拿什么来解决啊 | 他们带来的影响力可不能忽略了细节 | non-hate | non-hate [END]
+5080 NULL | 普信男 | non-hate | non-hate [END]
+3359 人家真的敢办事儿 | 裸体游行、终身不婚、单亲养子 | non-hate | non-hate [END]
+6513 东北人 | 已经差到不行了 | Region | hate [END]
+6376 NULL | 有些动物喜欢缠着人类 | non-hate | non-hate [END]
+274 我会尽力帮助您，但是您提供的输入似乎是在表达对特定群体的负面情绪，而不是具体的仇恨言论。根据您提供的信息，我可以将其归纳为对黑人女性及其孩子的不尊重，这可能涉及到种族歧视（`Racism`）和性别歧视（`Sexism`）。然而，由于缺乏明确的评论对象，我将设置`Target`为`NULL`。输出如下：
+
+```text
+黑人女性及其孩子 | 不会同情 | NULL | non-hate [END]
+```
+2747 她得艾滋了 | 别去碰她 | HIV/AIDS | hate [END]
+4325 NULL | 学校有黑人教英语 | others | hate [END]
+1542 广东本地人 | 说方言被骂有优越感 | non-hate | non-hate [END]
+4352 男人 | 有权一样有 | non-hate [END]
+--------------
+
+女人 | 责任少 | non-hate [END]
+--------------
+
+婚姻 | 法律偏向 | non-hate [END]
+--------------
+
+两性舆论 | 男性失守 | non-hate [END]
+--------------
+
+对女性要求 | 纯洁无用 | non-hate [END]
+--------------
+
+对男性要求 | 提供情绪价值 | non-hate [END]
+--------------
+
+孩子 | 男人决定 | non-hate [END]
+--------------
+
+彩礼 | 与己无关 | non-hate [END]
+--------------
+
+总结 | 男女平等 | non-hate [END]
+--------------
+
+注：以上输出仅为示例，实际结果会根据输入文本内容进行分析和提取。
+4965 NULL | 反串 | others | hate [END]
+3739 非洲新冠检测 | 不相信非洲的任何统计数字 | non-hate | non-hate [END]
+6915 看到小红书这三个字儿 | NULL | others | non-hate [END]
+2458 鸟毛 | 不给 | 滚出户 | Sexism | hate [END]
+7648 NULL | 接盘 | others | hate [END]
+6176 女权 | 极端受害者只会是女性 | Sexism | hate [END]
+1846 江苏人 | 发展猛 | non-hate | non-hate [END]
+3595 NULL | NULL | non-hate | non-hate [END]
+4236 我最讨厌两种人，种族歧视的人和黑人😭😭😭 | Racism | hate [END]
+2517 NULL | NULL | non-hate | non-hate [END]
+6043 NULL | 极端仇男癌 | others | hate [END]
+4490 NULL | 植物的命也是命，植命贵 | non-hate | non-hate [END]
+7842 这种死飞柱 | 不能滚去正宗大飞柱 | others | non-hate [END]
+609 这部分文本中包含多个潜在的观点，我们需要逐一分析。以下是第一个观点：
+
+**观点1:**
+- **评论对象:** 理中客
+- **论点:** 男生在知乎上的讨论
+- **目标群体:** 理中客（可能包括男性和女性）
+- **是否仇恨:** 不构成仇恨言论
+
+```text
+理中客 | 在知乎上的讨论 | non-hate [END]
+```
+2717 NULL | NULL | non-hate | non-hate [END]
+5018 NULL | NULL | non-hate | non-hate [END]
+5792 新疆 | 3个省再加上黑河南、新疆、潮汕好家伙 | Region | hate [END]
+6411 女儿 | 无种族之爱 | non-hate [END]
+3112 NULL | 被枪毙的好友 | non-hate | non-hate [END]
+4859 它要是遵纪守法也就罢了 | 碰见惹事的我就算蹲进去我也得给他弄个半身不遂 | non-hate | non-hate [END]
+5798 蛆佬 | 智商高感染hiv后更高 | Racism | hate [END]
+6525 NULL | 宣传黑人节目 | others | non-hate [END]
+5987 NULL | 不能死 | others | hate [END]
+5856 NULL | 带着你的家人移民非洲吧！还有圣母的爱 | others | non-hate [END]
+4000 NULL | 河北没存在感 | Region | non-hate [END]
+7068 NULL | 幽默 | non-hate [END]
+1900 湖北 | 没听懂是什么意思 | NULL | non-hate [END]
+1011 黑人 | 沐猩而冠 | Racism | hate [END]
+7558 人造子宫 | 赛高 | non-hate [END]
+5947 女权师 | 疯狂成这个样子 | NULL | non-hate [END]
+2256 他们找黑人媳妇 | 纯属是觉得不要彩礼还能干 | non-hate | non-hate [END]
+2922 人家真善人 | 自己租个院子养 | non-hate [END]
+6151 NULL | 学会尊重这些群体 | LGBTQ | non-hate [END]
+2210 NULL | 女性出轨率已打80% | others | non-hate [END]
+3136 格局大点，只要是外国人，我肯定接受不了😆 | NULL | non-hate | [END]
+1441 NULL | 预言B站将是下一个豆瓣 | others | non-hate [END]
+2244 "xa人都死绝了才好" | xa人 | NULL | non-hate [END]
+2135 江西人 | 为了黑而生 | others | hate [END]
+923 NULL | 我真是太放心了 | others | non-hate [END]
+4233 又黑额们 | 西安似吧？ | NULL | non-hate [END]
+2506 回族 | 信仰伊斯兰教 | NULL | non-hate [END]
+7779 四川 | 外送电 | non-hate | non-hate [END]
+974 中国 | 借鉴韩国 | others | non-hate [END]
+510 东北人 | 被黑的很惨 | non-hate | non-hate [END]
+752 感觉造物主很奇妙。给予他们超强繁殖的本能 | 同时也给予了艾滋病这种克制的病毒 | non-hate | non-hate [END]
+444 NULL | 希望赶紧移民 | others | hate [END]
+2364 学校 | 不是好东西 | others | hate [END]
+4647 兄弟 | 别急 | others | non-hate [END]
+3898 肌肉黑人 | 快手发展黑人祝福起家 | non-hate | non-hate [END]
+3487 东北人 | 表示赞同 | NULL | non-hate [END]
+5606 浙南 | 不想被代表 | others | non-hate [END]
+2768 NULL | 不美黑 | others | non-hate [END]
+5381 男人 | 线上拉客 | non-hate | non-hate [END]
+7629 NULL | 别自我意识过剩了 | others | non-hate [END]
+3177 NULL | 反女权不要抗旧社会大旗 | others | hate [END]
+1233 黑河南的很多 | 不是一个量级的 | non-hate | non-hate [END]
+3871 NULL | 以后不把老婆裱起来供着就算家暴 | non-hate | [END]
+3423 和中国思想没关系 | 情爱开玩笑 | NULL | non-hate [END]
+2489 NULL | 倒贴 | others | non-hate [END]
+2513 中国不存在种族歧视 | 不存在黑种人 | non-hate | non-hate [END]
+4474 四川人 | 受到歧视 | non-hate | others [END]
+2684 这个地方 | 被外来打工的吐槽 | non-hate | others | [END]
+2396 NULL | 半斤八两 | non-hate | [END]
+5200 女生跑大城市的才多把 | 学区房一堆东西 | non-hate | non-hate [END]
+5662 猪 | 屠宰场 | NULL | hate [END]
+7723 这些渣滓确实到哪里都是渣滓 | 法不容情，绝不姑息 | Racism | hate [END]
+1951 NULL | NULL | non-hate | non-hate [END]
+5176 NULL | 孙笑川的样子 | Sexism | hate [END]
+7227 同性恋 | 可以跟异性结婚生小孩 | LGBTQ | non-hate [END]
+5630 山东 | 主要征兵地 | non-hate [END]
+711 NULL | 反同迫在眉睫 | others | hate [END]
+5263 这些人 | 不替自己的未来考虑 | 不努力改变纠正自己 | 自我中心 | non-hate [END]
+2846 东北人 | 互黑 | others | hate [END]
+3174 NULL | NULL | non-hate | non-hate [END]
+7490 黑人 | 犯罪率较高 | Racism | hate [END]
+3787 妇女报 | 是 | 妇联名下 | non-hate [END]
+6805 NULL | 你们实在叠buff吗？ | others | non-hate [END]
+6090 NULL | 但nq觉得自己不能共情任何男性很棒 | others | non-hate [END]
+6503 直男 | 作为直男生理上的排斥 | non-hate [END]
+1324 NULL | NULL | non-hate | non-hate [END]
+200 很抱歉，我理解您可能在寻找某个特定话题的内容。不过，根据您提供的信息，我将尝试分析并给出相应的四元组。如果需要，我可以继续查找其他例子来帮助您理解。
+
+**【样例7：包含网络黑话的例子】**
+- **输入:** `那些说东北人素质低的，你们自己长点心吧，东北人可聪明了`
+- **输出:** `东北人 | 说素质低 | non-hate | non-hate [END]`
+- **//分析:** 这句话虽然表达了对东北人的正面评价，但暗含对地域歧视的否定，因此被标注为 `non-hate`。这里的“东北人”是目标群体，而“说素质低”是论点，没有明确的评论对象。
+53 男的是不是可以坦白自己的PC史，这不比交往一个外国女友严重？ | NULL | non-hate | others | [END]
+4600 NULL | NULL | non-hate | non-hate [END]
+6266 `男同 | 杀同性恋 | LGBTQ | hate [END]`
+6366 蝻蛆 | 不要臉太下頭 | Racism | hate [END]
+1708 NULL | 古代封建地主和官~员的嘴脸 | non-hate | non-hate [END]
+887 国人同胞在非洲下了多少蛋 | 无具体指控 | others | non-hate [END]
+3139 哥们 | 勇敢反击 | non-hate | non-hate [END]
+283 东北 | 按照普遍印象很好 | Region | non-hate [END]
+3313 NULL | 做不了人事 | non-hate | [END]
+144 【样例7：NULL目标的例子】
+- **输入:** `有些苏北人在网上对江西的态度跟仇敌一样，已经见怪不怪了，有些甚至直接私信辱骂`
+- **输出:** `NULL | 对江西的态度跟仇敌一样 | others | non-hate [END]`
+- **//分析:** 该文本没有明确指出评论对象，因此“评论对象”设为 `NULL`。文本中虽然提到了对特定地域人群的负面概括，但并未上升到普遍性攻击的程度，因此被标注为 `non-hate`。
+3821 这个事情上估计是大势所趋，国家宣传口的风向都是在推进和黑人同婚，想改变这个趋势，极其困难🤔 | 国家宣传口 | 推进黑人同婚 | non-hate [END]
+1962 NULL | 不婚不育的女权 | others | non-hate [END]
+2314 病人 | 预防某传染病 | non-hate | non-hate [END]
+5709 NULL | NULL | non-hate | non-hate [END]
+3420 NULL | NULL | non-hate | non-hate [END]
+7505 ```text
+你是女生 | 你怎么了 | Sexism | hate [END]
+```
+8017 NULL | 奴隶姐 | NULL | non-hate [END]
+7968 蝴蝶鸡 | 死得好 | NULL | hate [END]
+2175 NULL | 但要实事求是，不能用演员和运动员比 | non-hate | non-hate [END]
+4018 NULL | 皇帝荒淫无耻 | non-hate | non-hate [END]
+6660 NULL |  |  |  | [END]
+66 黑黄后代 | 把黑黄后代留在中国 | Racism | hate [END]
+2795 NULL | 反变态吧是为了反变态 | non-hate [END]
+725 NULL | 不冤枉老实人 | non-hate | [END]
+7714 NULL | 别祸害别人了 | others | hate [END]
+1468 抱歉，根据您提供的文本，我无法确定具体针对哪个群体进行攻击。这个描述似乎包含了对男性群体的负面刻板印象，但没有明确指出具体的评论对象。因此，我会将其标记为`NULL`。如果这是您想要表达的全部内容，您可以这样输出：
+
+```
+NULL | 打架扇嘴巴，当街舔 | others | hate [END]
+```
+6789 NULL | 结婚纯累赘 | others | hate [END]
+8020 这个吧里到处发帖的不就是引战的流量佬吗，你给同什么实际利益了吗，没有的话你和那群你认为的贵物也没区别 | NULL | non-hate | non-hate [END]
+1 NULL | 感觉你比我高级五个阶级 | others | non-hate [END]
+4832 NULL | 美国嘿人马丁路德金嫖娼考第一 | others | non-hate [END]
+6574 嘴上说女权但对男性崇拜不已的人 | 小傻瓜 | Sexism | hate [END]
+3203 【输入】：舔狗让他死就行了，杀鸡儆猴么，一个舔狗不死，其他舔狗怎么觉醒？
+【输出】：舔狗 | 让他死就行了 | non-hate | non-hate [END]
+5318 NULL | 个人从来没有过 | non-hate | [END]
+1960 地域黑 | 前汪伪区前国统区 | Region | hate [END]
+3294 毛爷爷 | 我们的兄弟 | others | non-hate [END]
+4823 江苏人 | 概率上讲 | non-hate | non-hate [END]
+728 NULL | NULL | non-hate | non-hate [END]
+4389 男人 | 只会和男拳战斗 | non-hate | non-hate [END]
+1655 一元购 | 真的是这帮东西的天性 | non-hate | non-hate [END]
+7499 抱歉，您提供的文本似乎在讨论同性恋平权问题，但并没有明确指出具体的观点或言论是否构成仇恨言论。根据您给出的上下文，我们可以尝试从中抽取出潜在的论点和目标群体。这里提供一个示例，假设您希望我从文本中抽取出一个具体的仇恨言论观点：
+
+**输入文本：**
+"不幸之中的万幸，因为异性歧视同也是不对的，同样，支持同性也是不对的，都不是政治正确，政治正确的是从来不谈它，当它不存在。"
+
+**输出示例：**
+"异性歧视 | 不对的 | non-hate [END]" 
+
+这个例子中，论点是“异性歧视是不对的”，但没有明确指出是否构成仇恨言论。如果需要进一步分析，您可能需要提供更多的上下文或明确指出某个特定言论是否具有仇恨性质。
+3347 NULL | 解放了男性 | non-hate | non-hate [END]
+1521 NULL | 因为河南同学比他高了一百分 | others | non-hate [END]
+4471 她 | 别嫁给我们中国男人🐶 | Sexism | hate [END]
+5194 社交软件 | 怀疑人生 | non-hate | [END]
+7673 NULL | 让他封号 | others | hate [END]
+2368 男权 | 反女权 | non-hate | non-hate [END]
+```
+4180 女人 | 用女人取乐 | Sexism | hate [END]
+6475 东北人 | 你这样跟关里那帮有啥区别 | Region | hate [END]
+5363 NULL | 太棒了呀，不用被道德和素质绑架了 | non-hate | non-hate [END]
+7220 抱歉，我理解错了。您提供的文本似乎是在讨论社交媒体平台的影响力，而非仇恨言论。我会尝试根据这个上下文来生成四元组。以下是根据您提供的文本生成的四元组：
+
+- 微博 | 社会影响力最大 | non-hate
+- 社交媒体 | 影响力 | non-hate
+- 抖音 | 社交软件 | non-hate
+- 小红书 | 社区 | non-hate
+- 豆瓣 | 社区 | non-hate
+- 互联网 | 社区 | non-hate
+
+这些四元组都是基于文本的客观描述，不涉及任何特定群体或情感色彩，因此被标记为`non-hate`。如果需要进一步分析或提取仇恨言论相关的观点，请提供更具体的内容。
+5247 女性 | 多数感性思维容易洗脑 | Sexism | hate [END]
+161 直男 | 不会挑礼物 | non-hate | non-hate [END]
+7758 NULL | NULL | non-hate | non-hate [END]
+7767 NULL | 关爱了她一顿 | non-hate | [END]
+7213 背叛民族的人 | 精神包衣层出不穷 | non-hate | non-hate [END]
+1098 NULL |  |  |  | [END]
+6214 NULL | 除了东北上海河南其他地方真不叫黑 | others | non-hate [END]
+6343 东北人 | 拉着整个北方对抗南方 | non-hate | non-hate [END]
+5137 NULL | 给自己的歧的找借口掩饰 | non-hate | non-hate [END]
+5744 大众 | 缺乏个人实现的途径 | 社会 | 固化 | non-hate [END]
+749 NULL | 打成上海人 | others | hate [END]
+4957 北京天津 | 认为南方人要饭 | non-hate | others | [END]
+4250 黑人 | 所谓的聪明的人比例太少了 | Racism | hate [END]
+6170 广西 | 无足轻重 | non-hate | non-hate [END]
+6939 NULL | NULL | non-hate | non-hate [END]
+2787 女 | 接受度更高 | LGBTQ | non-hate [END]
+5739 NULL | NULL | non-hate | non-hate [END]
+605 NULL | 高贵的中国人 | others | non-hate [END]
+317 辽宁人 | 不应该替某省背黑锅 | Region | non-hate [END]
+1642 ```python
+NULL | NULL | NULL | NULL [END]
+```
+3598 NULL | 流量老贼 | others | hate [END]
+5748 NULL | 喷吧也是女权它们也只会喷了 | others | hate [END]
+6260 NULL | 装成女人来骗那群龟男来舔啊 | Sexism | hate [END]
+7784 NULL | 被拐卖确实很感动 | others | non-hate [END]
+5946 人类进化 | 靠杂种推进 | NULL | non-hate [END]
+42 ```markdown
+NULL | 这样的假设 | non-hate | non-hate [END]
+```
+1200 NULL | 默就是默 | non-hate | non-hate [END]
+316 东北人 | 火药味十足的聊天氛围 | non-hate | non-hate [END]
+594 NULL | 曲阜和孔子是好事吗？ | others | non-hate [END]
+5806 感觉黑人给ysl丢脸 | 给ysl丢脸 | Racism | hate [END]
+21 非洲黑人 | 智商70 | 智障水平 | Racism | hate [END]
+美国黑人混血儿 | 智商85 | 中非混血儿智商90左右 | 混血 | non-hate [END]
+非洲黑人 | 被学者归类为智障水平 | 智商70 | 智障水平 | Racism | hate [END]
+320 NULL | 在这里性别是女就是错误 | others | hate [END]
+4800 直男 | 更胜一筹 | Sexism | hate [END]
+5400 NULL | 反同存在即合理 | others | hate [END]
+6103 NULL | 嫌办的寒颤女方 | non-hate | non-hate [END]
+352 "女拳" | 平权放任出来 | NULL | non-hate [END]
+2237 NULL | NULL | NULL | NULL [END]
+7805 NULL | 不是好人 | others | hate [END]
+3327 NULL | 南满 | Region | hate [END]
+5368 最早捕捉贩卖黑奴的是阿拉伯人 | 对于公的黑奴，都要骟了 | Racism | hate [END]
+3570 NULL | 女拳喜欢冒充男的说话吗 | Sexism | non-hate [END]
+4468 男性 | 出轨 | non-hate | non-hate [END]
+1881 女拳 | 为了获取利益，打起拳来可以无视性别 | Sexism | hate [END]
+7075 NULL | 站起来 | 慕洋舔狗 | hate [END]
+6350 NULL | 今时不同往日 | non-hate | [END]
+3564 国内女拳 | 群嘲国男 | Sexism | hate [END]
+6979 NULL | 透明人 | others | non-hate [END]
+7 茶壶嘴 | 破防了 | NULL | non-hate [END]
+7793 NULL | 你举报要有用才怪了 | non-hate | non-hate [END]
+5871 NULL | 带孩子的女的不叫女孩，就叫女的 | others | non-hate [END]
+5021 NULL |  |  |  | [END]
+2369 国内学生 | 留学生待遇更好 | non-hate [END]
+3683 其他大多数省 | 给我国拖后腿 | Region | hate [END]
+5511 NULL | 互喷不就是最好的抵制方法吗😆 | others | hate [END]
+4131 NULL | 不能带走孩（串）子（串）😆 | others | non-hate [END]
+2050 NULL | 桑嗨仁歧视外地人 | others | non-hate [END]
+4339 才不对亢 | 让t们团结鼓励 | non-hate [END]
+2098 NULL | 从哪看出来他们是东北人 | Region | non-hate [END]
+1069 NULL | 习惯了喷 | non-hate | non-hate [END]
+4623 NULL | 带着孩子找了个印度同事 | others | non-hate [END]
+4561 NULL | 不能急 | others | non-hate [END]
+3625 血 | 血和屈辱你只能二选一 | others | hate [END]
+333 NULL | 不带套 | others | non-hate [END]
+108 NULL | 我真的很讨厌 | non-hate | [END]
+6219 NULL | 贬低中国女性 | Sexism | non-hate [END]
+6765 NULL | NULL | non-hate | non-hate [END]
+640 跑国外去了 | 物尽其用 | non-hate | NULL [END]
+5893 NULL | 拳师 | 它们 | non-hate [END]
+7224 NULL | 小偷比武汉少 | others | hate [END]
+6175 NULL | 嫁去巴基斯坦 | others | non-hate [END]
+5777 男人 | 被打压男人让男人沦为舔狗更好为她们服务 | Sexism | hate [END]
+98 山东 | 两性问题 | non-hate | non-hate [END]
+1522 事实上留在河南的古汉人才是最多的 | 古汉人 | non-hate | others | [END]
+3284 NULL | 没有证据 | non-hate | non-hate [END]
+3950 NULL | 物化女性还得看女人 | Sexism | hate [END]
+7795 NULL | 拿刀真的有用 | others | non-hate [END]
+5312 NULL | 同性恋是病才要上药 | LGBTQ | hate [END]
+4780 NULL | 黑沙口 | others | hate [END]
+699 NULL | 照片看起来很年轻 | non-hate | non-hate [END]
+2370 广西人 | 不喜欢东南亚人 | others | hate [END]
+1968 中国女性 | 东亚女权本就是一丘之貉 | Sexism | hate [END]
+2676 NULL | 聪明人比例少 | others | non-hate [END]
+634 NULL | 有立体防御机制 | others | non-hate [END]
+58 长得丑就活该被变态骚扰 | 变态骚扰 | Sexism | hate [END]
+2419 NULL | 不要贪恋美色 | non-hate | non-hate [END]
+4560 你 | 证明那些跟小黑交往的女生是我们985的 | 性别歧视 | non-hate [END]
+8006 抠脚大汉 | 游戏上线 | non-hate | [END]
+4272 正常婚恋 | 不带歧视 | non-hate [END]
+414 安徽人 | 瞧不起 | non-hate | non-hate [END]
+5337 NULL | 两头开枪 | others | hate [END]
+7144 苏北人 | 论点 | 其他省份 | Sexism | hate [END]
+6630 NULL | 洋垃圾不要我凭什么要 | non-hate | non-hate [END]
+3866 男人 | 不适宜的就忍受呗 | non-hate | non-hate [END]
+2616 黑龙江人 | 关系特别好 | NULL | non-hate [END]
+6673 NULL | 生了分月付款，生完滚蛋 | others | hate [END]
+6371 东北红脖子 | 认为东北最好，目空一切 | Region | hate [END]
+东北奸 | 认为东北最差，南方是爹 | Region | hate [END]
+2749 NULL | 前列腺 | NULL | non-hate [END]
+6206 黑人 | 主动依靠劳动获取报酬 | NULL | non-hate [END]
+黑人和他们的副产品 | 打着“反对种族歧”旗号 | 激进主义 | non-hate [END]
+7054 女拳 | 搞得跟什么一样 | Sexism | hate [END]
+4422 网上打拳的都是男的有钱挣 | NULL | others | hate [END]
+423 广东人 | 丑人多 | non-hate | non-hate [END]
+7182 NULL | 阳谋 | non-hate | non-hate [END]
+7897 东方卫视 | 女拳卫士 | Sexism | hate [END]
+4828 丰县 | 丢尽了江苏的脸 | non-hate | non-hate [END]
+6269 黑人 | 看不上 | non-hate | non-hate [END]
+4546 NULL | 现在这个时代的思想 | non-hate | [END]
+3380 NULL | 真心觉得安徽人大多数在网上太老实了 | others | non-hate [END]
+1619 欧美主体民族 | 没多少了 | 混血民族 | 拜女拳 | 想让我们一样 | non-hate [END]
+2746 NULL | 皮套人 | others | non-hate [END]
+7539 NULL | 图个器大活好吧 | others | hate [END]
+5163 NULL | 翻身逆袭 | others | non-hate [END]
+2002 NULL | NULL | non-hate | non-hate [END]
+5813 NULL | 男人的武力已经被削得越来越弱了 | non-hate | non-hate [END]
+1054 安徽 | 在上海被歧视 | Region | hate [END]
+2483 不结婚就完事了 | 真想不懂都22年了解放那么久了 | non-hate | non-hate [END]
+6076 南方人 | 认为南方人是野蛮人 | 北方人 | 野蛮之地 | non-hate [END]
+6680 自己过的好就行了 | 苏北最穷的地方能吊打中国的大部分城市 | non-hate | non-hate [END]
+2890 NULL | NULL | non-hate | non-hate [END]
+5633 嫁黑人 | 去非洲 | non-hate | non-hate [END]
+3660 NULL | 被嘿嘿玩过 | others | non-hate [END]
+1244 学校 | 做学术研究的 | NULL | non-hate [END]
+1630 亩人 | 需要被尊重 | others | non-hate [END]
+6900 NULL | 各有所爱 | non-hate | non-hate [END]
+7390 黑人 | 早晚会改观 | Racism | hate [END]
+1909 NULL | 别举报 | LGBTQ | hate [END]
+1454 NULL | 爆杀小仙女 | Sexism | hate [END]
+4108 复联管儿童性侵和妇女被家暴？ → NULL | 不构成仇恨言论 | non-hate [END]
+5405 知乎 | 不夸东北就是南大人 | non-hate | others | [END]
+3735 NULL | 换男的 | non-hate | non-hate [END]
+2541 哈尔滨男人 | 惨 | non-hate [END]
+3588 老赵 | 被大猩猩不当命 | non-hate | others | [END]
+4972 美国 | 警察不管 | non-hate | non-hate [END]
+6872 NULL | 如果他知道了 | non-hate [END]
+1354 在天龙人眼里，吴签 | 没有宁波黑人高端 | Sexism | hate [END]
+3224 东夷 | 铸造华夏族的重要一部分 | others | non-hate [END]
+7791 NULL | NULL | non-hate | non-hate [END]
+2840 信誉受损 | 修复时间很长 | non-hate | [END]
+7649 NULL | NULL | non-hate | non-hate [END]
+5165 NULL | 去理性 | others | hate [END]
+5252 江苏人 | 独占八斗 | Region | non-hate [END]
+江苏人 | 捡破烂 | Region | non-hate [END]
+975 NULL | 女人 | 假 | non-hate [END]
+6591 呵呵 | 别着急 | NULL | non-hate [END]
+1492 感觉是恨国党的天下 | 有些话乍一听有点道理，但细品后觉得真的是故意搞分裂 | others | hate [END]
+5596 NULL | NULL | non-hate | non-hate [END]
+6363 黑人小孩 | 生了黑人小孩 | NULL | non-hate [END]
+7976 NULL | NULL | non-hate | non-hate [END]
+1120 温州 | 骗子最多 | non-hate | non-hate [END]
+2173 川渝 | 我们川军 | 川渝人 | Sexism | hate [END]
+东北 | 衰落 | 川渝 | non-hate [END]
+2821 大病容易人传人 | 必须隔离 | non-hate | [END]
+4840 蛤蚧 | 又替黑非洲来抢劫埃及文明啦 | non-hate | non-hate [END]
+328 NULL | NULL | non-hate | non-hate [END]
+2284 友爱 | 以txl为荣是变态 | LGBTQ | hate [END]
+2276 尼玛的瞎好 | 一群gay不挑人 | LGBTQ | hate [END]
+2119 NULL | NULL | non-hate | non-hate [END]
+6853 NULL | NULL | non-hate | non-hate [END]
+745 NULL | 人手一箱舍得酒 | others | non-hate [END]
+4755 前男友是黑人 | 无法接受 | Racism | hate [END]
+4848 NULL | 刷抖音都有傻B女 | others | hate [END]
+3848 NULL | NULL | non-hate | non-hate [END]
+2437 团结起来 | 对付地域黑喷子 | non-hate | non-hate [END]
+5955 NULL | NULL | non-hate | non-hate [END]
+2141 NULL | 我觉得恶性 | non-hate | non-hate [END]
+4234 黑人 | 专门勾搭中国妇女 | Racism | hate [END]
+6399 2. 直男 | 无法转同性恋 | non-hate | non-hate [END]
+2393 广东人 | 干了坏事 | non-hate | non-hate [END]
+742 NULL | 该死 | others | hate [END]
+2519 女人 | 无法交流 | Sexism | hate [END]
+857 NULL | 卡菲勒 | 同性恋 | non-hate [END]
+3928 NULL | NULL | non-hate | non-hate [END]
+6267 抱歉，您的输入似乎包含了一些不准确的观点。根据您提供的信息，我会将其分别解析如下：
+
+1. 对于贫穷家庭，防盗门的设置是必要的，但这并不意味着他们不应该设置。这可能涉及到对特定群体的歧视，因为这里对“基佬”进行了攻击，暗示他们穷困潦倒，从而可能成为潜在的犯罪分子。这个观点可以归类为`Racism` 和 `LGBTQ`，因为攻击的是种族和性少数群体。
+
+2. 对于同性恋家庭，提到防盗门可能并不是针对他们的特定行为，而是对所有可能的变态者提出警告。这种说法可能带有对性少数群体的偏见，因此可以归类为`Sexism`。同时，这个观点本身并不构成仇恨言论，因为它没有明确指出攻击的具体群体。
+
+综上，我会给出以下两个四元组：
+
+- **观点1:**
+  - `基佬 | 变态 | non-hate [END]`
+
+- **观点2:**
+  - `基佬 | 提防盗门 | non-hate [END]`
+
+请注意，这些输出都是根据您提供的文本进行的简化处理，实际输出可能会更复杂，因为原始文本可能包含多个
+3851 江苏人 | 默认自己是日本的 | non-hate | non-hate [END]
+6430 该骂的是又同又飞舞的 | 科学家 | non-hate [END]
+4248 河南人 | 没有一点办法了 | non-hate | non-hate [END]
+1828 NULL | NULL | non-hate | non-hate [END]
+7978 NULL | NULL | non-hate | non-hate [END]
+4570 NULL | NULL | non-hate | non-hate [END]
+4157 NULL | NULL | non-hate | non-hate [END]
+7875 NULL | 被打死 | others | hate [END]
+2058 这个故事 | 没有被全国黑过的地方 | 不太穷就是太怂 | non-hate [END]
+330 NULL | 太恶心人了 | non-hate | non-hate [END]
+1699 抱歉，您提供的文本似乎没有明确的仇恨言论指向，因此无法直接生成四元组。不过，我们可以尝试从文本中抽取出相关信息，然后根据这些信息推测可能存在的潜在歧视。如果确实存在歧视，我们可以将其转化为四元组的形式。请允许我稍候为您处理。
+
+```markdown
+大学生 | 感染艾滋病的几率上升 | HIV | non-hate [END]
+```
+3 白人班级 | 干净 | NULL | non-hate [END]
+6816 女拳 | 自我安慰的话术 | Sexism | non-hate [END]
+8012 NULL | 疯狗 | others | hate [END]
+3814 这个回答似乎是在反驳之前可能存在的负面言论，提到了一个具体的句子来表明说话者不是那种不分青红皂白就攻击别人的人。然而，由于它并没有明确指出评论对象，因此无法直接判断是否构成仇恨言论。我会将其作为一个非仇恨言论的观点来处理：
+
+```text
+NULL | 你绝对不是他说的那种要一棒子打死的人 | non-hate | non-hate [END]
+```
+2390 小仙女 | 心地善良 | NULL | non-hate [END]
+1905 女性地位 | 提高 | non-hate | non-hate [END]
+1164 女拳 | 经费没覆盖 | Sexism | hate [END]
+6645 NULL | NULL | non-hate | non-hate [END]
+3754 NULL | 地方歧视言论 | non-hate | non-hate [END]
+2049 NULL | 你以为你们这种人跑得出去 | others | hate [END]
+322 黑河南和北方 | 最严重的是西南地区及东北地区 | 民族团结 | non-hate [END]
+西南地区及东北地区 | 没什么本事 | 民族分裂 | non-hate [END]
+7311 房子 | 男方买的 | non-hate | non-hate [END]
+3125 黑蛆 | 争议是否是人 | Racism | hate [END]
+4460 NULL | 没有一个拳师冲 | others | non-hate [END]
+6276 NULL | 狐臭遗传没跑了 | others | non-hate [END]
+1101 上网那么久就没见过西藏和青海的网友-_-|| | NULL | non-hate [END]
+6168 度度 | 拿不出证据的话 | NULL | non-hate [END]
+7637 NULL | 种花家的不幸 | others | hate [END]
+2187 笑正常人是猪 | 散播同性恋美西意识不良风气 | LGBTQ | hate [END]
+2236 NULL | 轮着黑 | others | non-hate [END]
+639 NULL | 男男违法献血 | others | hate [END]
+2521 NULL | 与猩猩终成眷属 | others | non-hate [END]
+1036 NULL | NULL | non-hate | non-hate [END]
+4437 恩施 | 卷子不是黄冈的 | NULL | non-hate [END]
+---
+6448 巴黎人 | 到上海都是横行霸道的 | Region | hate [END]
+2679 上海 | 上海暴雨 | non-hate | non-hate [END]
+1211 NULL | 摘完棉花吃西瓜 | non-hate | non-hate [END]
+4374 NULL | 古话说的好：非我族类，其心必异 | others | hate [END]
+6362 民族自信不够 | 民族自信 | non-hate [END]
+7789 NULL | 中国人不够多吗？ | others | non-hate [END]
+814 NULL | 用过特制套子毛妹说比老黑还厉害👍 | 母猪 | non-hate [END]
+6058 NULL | 玩游戏玩的不好 | non-hate | non-hate [END]
+212 安徽雨也很大 | 不像郑州这么严重 | non-hate | non-hate [END]
+2199 NULL | NULL | non-hate | non-hate [END]
+1583 NULL | 猴痘传播方式 | non-hate | non-hate [END]
+5184 NULL | 你这是什么审美 | Sexism | hate [END]
+7972 NULL | NULL | non-hate | non-hate [END]
+3221 NULL | 南满不是人 | others | hate [END]
+3134 NULL | 老好人了 | non-hate | [END]
+6578 NULL | 去东南亚快乐一下 | non-hate | non-hate [END]
+2070 NULL | NULL | non-hate | non-hate [END]
+3656 NULL | 在随机带走几个lkd | others | hate [END]
+4707 NULL | 反对同性恋 | 吃狗肉 | non-hate [END]
+273 NULL | 在中国的土地上这个黑人会不会是非洲国家乌干达的？ | others | non-hate [END]
+4995 黑人 | 限制活动范围 | Racism | hate [END]
+5699 NULL | 反自己民族主义 | others | non-hate [END]
+7606 黑人 | 作死害百姓 | Racism | hate [END]
+6136 NULL | 谁要跟她们摆烂 | others | hate [END]
+4116 NULL | 闻见狐臭会生理反应 | non-hate | non-hate [END]
+6675 自由 | 自由 | non-hate | non-hate [END]
+2869 你 | 感觉对黑人的一切都有一种心理膈应 | Racism | hate [END]
+1684 现代女生都接受教育 | 你这思想 | NULL | non-hate [END]
+2204 NULL | 女的哪个不是这样啊 | others | non-hate [END]
+6209 孩子 | 对妻子不负责任，像陌生人 | non-hate | [END]
+6517 NULL | 印度人结婚的女的 | 印度人 | non-hate [END]
+1622 NULL | 去喜欢中国的地方留学 | others | non-hate [END]
+1896 NULL | 别留在中国祸害人 | others | hate [END]
+4883 女性 | 不赞同“女生不适合学理工科” | 77.9% | 77.3% | non-hate [END]
+7033 NULL | 都魔怔了 | others | hate [END]
+4292 NULL | 谦虚点，我们蝈腩😆 | others | non-hate [END]
+7044 非洲人 | 穷是他们自己懒惰 | Racism | hate [END]
+5078 NULL | 炒作而已 | non-hate | non-hate [END]
+6322 NULL | NULL | non-hate | non-hate [END]
+1416 NULL | 南方人骂东北人 | Region | hate [END]
+6954 河南 | 可能会有偷盗行为 | non-hate | non-hate [END]
+70 NULL | 下一位 | others | hate [END]
+1314 陕北 | 煤老板暴发户太多 | non-hate | non-hate [END]
+7906 抱歉，您的发言似乎包含了一些不恰当的表述，我将为您解读如下：
+
+- **评论对象:** 山驴b（可能是对某人的昵称）
+- **论点:** 本大爹（可能是对某人的自称，这里可能是指发言者自己）
+- **目标群体:** 山驴b（因为提到了具体的个人）
+- **是否仇恨:** 山驴b（这里的“仇恨”可能是指对发言者的贬低或不满，而非针对特定群体的仇恨）
+- **非仇恨:** 本大爹（这里的“仇恨”可能是指对发言者的贬低或不满，而非针对特定群体的仇恨）
+
+综合来看，这个发言似乎是在质疑某个人对另一个人的攻击行为，可能是因为对方频繁拉黑发言者。由于没有明确指出具体是谁，我们只能假设这是对某人的普遍批评。因此，输出如下：
+
+`山驴b | 本大爹经常拉黑 | non-hate [END]`
+
+请注意，这个四元组中的“非仇恨”标签意味着这个言论并不构成仇恨言论，它只是表达了一种对某人的不满或批评。如果需要更详细的分析，可能需要更多的上下文信息。
+184 同胞 | 自甘堕落 | non-hate | non-hate [END]
+5896 NULL | 清楚计划 | others | hate [END]
+3494 网络地域黑眼 | 穷是原罪 | Region | hate [END]
+5248 抱歉，根据您提供的文本，它并没有直接表达出针对特定群体的仇恨言论。因此，我会将其归类为`non-hate`。以下是相应的四元组：
+
+```text
+人类社会发展 | 推动 | non-hate [END]
+```
+1697 黄种人 | 不care | non-hate | non-hate [END]
+6164 NULL | 土人 | Racism | hate [END]
+2085 NULL | 哈哈，几个视频都看过 | others | non-hate [END]
+1793 NULL | 名头是老外安上去 | others | non-hate [END]
+4845 女儿 | 玩手机打牌 | 游戏人间 | non-hate [END]
+3834 这个吧说真的不否认男的会有玩玩黑人里的美女的想法，但是应该没有几个会娶黑人女的😅 | NULL | Sexism | non-hate [END]
+3999 知乎同性恋标签第一的帖子 | 如何掰弯别人 | LGBTQ | hate [END]
+6075 NULL | 给河南不好的印象 | others | non-hate [END]
+3875 ezg | 喜欢 | NULL | non-hate [END]
+2297 [[NULL] | 控制人民 | 西方 | non-hate [END]]
+2989 嫁给外国人 | 不是中华民族了 | non-hate [END]
+5647 NULL | 喜欢拳啊 | others | non-hate [END]
+1217 黑人 | 得到中国女生 | Racism | hate [END]
+7822 NULL | 贵物 | others | non-hate [END]
+2303 NULL | 天下英雄城 | 文明南昌市 | non-hate [END]
+3391 NULL | NULL | non-hate | non-hate [END]
+7483 NULL | 杀了人还嬉皮笑脸 | non-hate | [END]
+6669 `同志 | 只有同性才是真爱 | LGBTQ | hate [END]`
+5721 ```text
+NULL | 性取向是别人的自由 | others | non-hate [END]
+```
+1325 深柜 | 在反同身边 | LGBTQ | hate [END]
+3704 哈哈 | 年度格斗场 | NULL | non-hate [END]
+1513 异性恋 | 不要自欺欺人 | LGBTQ | hate [END]
+165 上海人 | 用上海话聊天 | non-hate | non-hate [END]
+2470 NULL | 别放弃 | others | non-hate [END]
+2380 安徽 | 存在感低 | others | non-hate [END]
+3126 这个输入文本包含对女性的性别歧视，且具有明显的仇恨言论倾向，因此输出如下：
+
+`反串女 | 你睁大母眼看看好不 | Sexism | hate [END]`
+5006 物种问题 | 没得谈 | non-hate | non-hate [END]
+2974 NULL | 又发黑人丑照 | Racism | hate [END]
+3921 基佬 | 艾滋病 | LGBTQ | hate [END]
+4443 NULL | 女拳 | Sexism | non-hate [END]
+1198 NULL | 中资企业还雇佣她吧 | others | non-hate [END]
+2824 回族 | 问题 | non-hate | non-hate [END]
+984 NULL | 不婚前性行为，婚后不嫖娼 | non-hate | non-hate [END]
+3484 米国的事 | 别管了 | non-hate | non-hate [END]
+7917 NULL | 虛空法師是豬精 | others | hate [END]
+289 NULL | 处女膜流血 | non-hate | non-hate [END]
+6462 NULL | NULL | non-hate | non-hate [END]
+7279 NULL | 撑同 | LGBTQ | hate [END]
+7185 昨天的热搜确实引起了人们的关注，尤其是关于偷玉米事件中涉及的地域话题。下面我会为你分析并提取出相关信息，生成相应的四元组：
+
+**1. 观点1:**
+- **评论对象:** 河北偷玉米者
+- **论点:** 他们承认是隔壁村的人
+- **目标群体:** 河北偷玉米者
+- **是否仇恨:** 非仇恨
+
+```text
+河北偷玉米者 | 他们是隔壁村的人 | non-hate [END]
+```
+
+**2. 观点2:**
+- **评论对象:** 河南人
+- **论点:** 网友猜测可能是河南人
+- **目标群体:** 河南人
+- **是否仇恨:** 非仇恨
+
+```text
+网友猜测可能是河南人 | 河南人 | non-hate [END]
+```
+
+**3. 观点3:**
+- **评论对象:** 河南人
+- **论点:** 河南人普遍被认为口音重
+- **目标群体:** 河南人
+- **是否仇恨:** 非仇恨
+
+```text
+河南人普遍被认为
+947 NULL | NULL | non-hate | non-hate [END]
+2586 NULL | 性别比例失调 | others | non-hate [END]
+3481 娶黑人的 | 也会被骂 | Racism | hate [END]
+6728 NULL | 美妆，穿搭，腹肌小哥哥，妆改容貌焦虑 | non-hate | non-hate [END]
+912 【NULL】 | 河南人快被黑成贬义词了 | others | hate [END]
+3954 NULL | 不婚不育挺好淘汰极端nc女人 | others | hate [END]
+1716 地域黑 | 新闻标题扣到河南头上 | Region | non-hate [END]
+5724 NULL | NULL | non-hate | non-hate [END]
+3337 NULL | 想做 | others | non-hate [END]
+2557 NULL | 管不住自己 | others | non-hate [END]
+6306 NULL | 我不说 | non-hate | [END]
+1887 抱歉，根据您提供的文本，它似乎并不是针对特定群体的仇恨言论。因此，我会将其归类为`non-hate`。以下是相应的四元组输出：
+
+- 约炮可以 | 男人 | NULL | non-hate [END]
+1664 成都黑帽门 | 黑人用女方结婚照作黄网头像 | Racism | hate [END]
+7247 NULL | NULL | non-hate | non-hate [END]
+7981 NULL | NULL | non-hate | non-hate [END]
+5287 NULL | 带着任务赚流量 | others | non-hate [END]
+2432 同性恋 | 支持者 | 同性恋 | hate [END]
+7992 NULL | NULL | non-hate | non-hate [END]
+7548 NULL | 干净不了 | others | non-hate [END]
+3652 NULL | NULL | non-hate | non-hate [END]
+1544 NULL | 常规操作了 | others | hate [END]
+5238 ```markdown
+NULL | 踩评论 | non-hate | [END]
+```
+7403 她们自低自贱我懒得管 | 存在会让我国混血变多，艾滋病变多 | non-hate | non-hate [END]
+1652 NULL | 还不错 | others | non-hate [END]
+4573 NULL | 看视频再来给我扣帽子 | others | non-hate [END]
+5826 国内女生 | 喜欢留学生 | NULL | non-hate [END]
+2731 琪贵人 | 想掐死她吗 | non-hate | non-hate [END]
+1601 台湾岛 | 仅次于半导体的第二大无烟工业 | non-hate | non-hate [END]
+1614 黑吹子 | 有啥可说的 | others | non-hate [END]
+6825 NULL | 怪那些老外 | others | hate [END]
+6253 西周 | 早就发明文字了 | non-hate | non-hate [END]
+1743 爱猩动保人士 | 爱猩动保 | others | non-hate [END]
+6932 NULL | 两边差距不大 | others | non-hate [END]
+7987 NULL | 要了马上就降两档次 | others | non-hate [END]
+7415 这个输入文本似乎是在描述一个人从南京到太原的旅程，以及在火车上的沟通问题。由于文本中没有明确指出具体的观点或论点，我们无法从中抽取出构成或不构成仇恨言论的观点。因此，我们需要根据上下文来推断可能的意图。如果这是个笑话或者讽刺，那么可能不存在仇恨言论；如果这是日常对话，那么可能需要进一步分析才能确定是否存在潜在的歧视。
+
+不过，我们可以尝试从以下几个方面来构建一个观点：
+
+1. **评论对象**: 可能是“我”或“我同学”，因为文本中提到了“我给他打电话”。
+2. **论点**: 可能是“我听不懂东北口音”，因为“我同学坐火车从南京到太原，我说了两分钟他一东北人根本听不懂”。
+3. **目标群体**: 由于没有直接提及，我们可以假设是“东北人”。
+4. **是否仇恨**: 根据文本内容，由于没有明确的仇恨言论，我们可以标记为`non-hate`。
+
+基于以上分析，我们可以尝试构建一个四元组：
+
+```
+我同学 | 说两分钟我听不懂 | 东北人 | non-hate [END]
+``
+7042 嘿枸 | 天生令人厌恶 | non-hate | [END]
+457 NULL | NULL | non-hate | non-hate [END]
+5757 NULL | NULL | non-hate | non-hate [END]
+7105 NULL | 整个重庆都是反同吧吧主小号 | others | hate [END]
+19 NULL | 几千万个 | LGBTQ | hate [END]
+4424 基佬 | 恶心 | LGBTQ | hate [END]
+5362 NULL | 去死 | LGBTQ | hate [END]
+794 野生果子狸 | 现在微博看不到 | non-hate | non-hate [END]
+4440 贴吧 | 因为性冷淡不会去嫖娼 | non-hate | others | [END]
+3777 内地 | 被黑得很惨 | others | hate [END]
+5809 NULL | NULL | non-hate | non-hate [END]
+1548 NULL | 彩礼违法 | others | non-hate [END]
+918 NULL | 高人哪，喵神果然是高！ | non-hate | non-hate [END]
+5422 NULL | 热爱自由 | non-hate | [END]
+7003 NULL | 出现在人类面前的哥布林才是好哥布林 | others | hate [END]
+6842 NULL | 我能分清自卑和谦卑 | non-hate | non-hate [END]
+4558 杨圣母 | 出来恶心全体男性 | non-hate | non-hate [END]
+3889 NULL | 仙女的气质 | non-hate | non-hate [END]
+6820 NULL | 你们男的都去找机器人 | Sexism | hate [END]
+776 这种 | 接盘侠 | HIV/AIDS | non-hate [END]
+1215 NULL | 你去读黑人人种研究的书 | others | non-hate [END]
+6001 NULL | 在easy girl眼里，这也比国男好得多 | others | hate [END]
+678 NULL | NULL | non-hate | non-hate [END]
+6357 NULL | NULL | non-hate | non-hate [END]
+5623 电子厂 | 不招河南人 | non-hate | non-hate [END]
+1224 NULL | NULL | non-hate | non-hate [END]
+7303 NULL | 反同小将 | others | hate [END]
+7571 NULL | 人均985 | others | non-hate [END]
+5112 东北人 | 讨厌 | non-hate | others [END]
+2666 NULL | NULL | non-hate | non-hate [END]
+1832 NULL | NULL | non-hate | non-hate [END]
+3293 贴吧系统 | 多发几次就行了 | non-hate | non-hate [END]
+1435 NULL | 凡事讲究一个公平 | non-hate | non-hate [END]
+4637 NULL | NULL | non-hate | non-hate [END]
+3019 NULL | 不靠谱 | non-hate | [END]
+3488 NULL | 结了婚的通讯录 | others | non-hate [END]
+3491 这个不是仇恨言论，因此输出为：
+
+`NULL | 这是友军 | non-hate [END]`
+6066 NULL | 无意义 | others | non-hate [END]
+7731 NULL | 你的意见有个屁用 | others | hate [END]
+25 NULL | NULL | non-hate | non-hate [END]
+428 NULL | NULL | non-hate | non-hate [END]
+3114 NULL | 个臭gay | LGBTQ | hate [END]
+5873 重男轻女 | 计划生育导致女生出来不了 | Sexism | non-hate [END]
+7687 ```text
+鼻涕虫 | 觉得鼻涕虫交配恶心 | non-hate | non-hate [END]
+```
+6220 国内211随便挑几个会比这种人差？ | NULL | non-hate | non-hate [END]
+1461 穿衣服的猩猩 | 皮肤黑就被人歧视 | 指控种族主义 | hate [END]
+2344 NULL | 烂鲍鱼一般被人叫做普信女 | Sexism | hate [END]
+4379 个人 | 有些欧洲小国对中国印象不错 | non-hate | others | [END]
+95 孩子安全 | 基佬炼铜是人尽皆知的 | others | hate [END]
+5401 NULL | 不想谈恋爱 | non-hate | [END]
+380 这种垃圾 | 会报应的 | non-hate [END]
+3927 NULL | 出国 | non-hate | non-hate [END]
+3152 楼上感觉他们两广被黑了 | 感觉很委屈 | non-hate | non-hate [END]
+-----------------------
+然后黑河南就觉得大家只是玩梗 | 要劝河南人别玩不起 | 河南 | 没听说也没看见哪个女生和黑人谈恋爱 | Racism, Sexism | hate [END]
+-----------------------
+2753 NULL | 普信男普信女 | Sexism | hate [END]
+3142 NULL | NULL | non-hate | non-hate [END]
+1729 主页整天搁那和不同的白楠yy，就算你真的那么有钱也不妨碍你lkd | 白楠 | others | non-hate [END]
+3385 小仙女 | 不怕你们躺平 | non-hate | others | [END]
+2385 NULL | 不理解 | non-hate | [END]
+1117 NULL | 微博是个好地方 | others | non-hate [END]
+5390 NULL | 笑死了我发了一篇贵物男拳帖被删了 | others | non-hate [END]
+3243 NULL | 舔狗约炮都必须体验分娩 | others | non-hate [END]
+6021 狗狗 | YD长在了猩猩身上 | non-hate | [END]
+5845 NULL | 拳师日常化的高级妆 | others | non-hate [END]
+2292 浙江 | 气候不适 | Region | non-hate [END]
+2970 NULL | 欢迎来河南玩 | Region | non-hate [END]
+2094 NULL | NULL | non-hate | non-hate [END]
+2084 这种 | 从小能看出他很有暴力倾向智商低喜欢攻击攻击人 | others | hate [END]
+1782 NULL | 说txl没码 | LGBTQ | hate [END]
+5983 NULL | 口味有点重 | others | non-hate [END]
+1654 NULL | 你们滦河水 | non-hate | [END]
+3731 ```python
+NULL | 反串差评 | others | non-hate [END]
+```
+5950 抱歉，根据您提供的文本，它并没有明确指出任何具体的目标群体或言论内容，因此无法直接生成四元组。不过，如果要推测潜在的情感倾向和可能的攻击对象，我们可以尝试从以下几个方面进行分析：
+
+- 可能是针对基佬群体的攻击，因为他们感到压抑，需要发泄。
+- “它们”可能指的是某个群体，但没有明确指出是谁。
+- 由于害怕看到回击，这个群体可能采取了某种行动，比如禁言或攻击他人。
+
+基于这些信息，我们可以假设一个四元组如下：
+
+`基佬 | 需要发泄 | LGBTQ | hate [END]`
+
+但这只是推测，因为原始文本并未明确指出任何具体的攻击对象或群体。如果需要更精确的分析，请提供具体文本，我会尽力帮助您。
+5098 NULL | 母吠删我评 | non-hate | [END]
+4547 NULL | 同性恋又幻想对方是0 | LGBTQ | hate [END]
+6980 好看的靴子都是为女人设计的！ | 男靴复兴但仍不及女靴 | non-hate | non-hate [END]
+6044 NULL | 美国做乞丐 | non-hate | non-hate [END]
+6305 东北人 | 更受南方妹子欢迎 | non-hate | non-hate [END]
+7052 雀食男同 | 恶心 | NULL | hate [END]
+7998 NULL | 放出笼子里的东西 | non-hate | [END]
+4567 江西 | 互相完全不了解 | non-hate | non-hate [END]
+2117 好人 | 被枪指着 | non-hate | non-hate [END]
+7439 NULL | 会跟黑人女性交往吗？ | others | non-hate [END]
+3970 800的小姐 | 提高情绪价值 | NULL | non-hate [END]
+1031 NULL | 什么硅南 | others | hate [END]
+4375 66666 | 不想歧视 | non-hate | non-hate [END]
+2167 NULL | 涤清圣土桖洗嘿枸 | others | non-hate [END]
+6095 广东福建人 | 没有地域黑 | Region | non-hate [END]
+6609 广东人 | 广西人长相 | non-hate | non-hate [END]
+3616 兄弟们 | 打拳 | 无风不起浪 | non-hate [END]
+3251 安徽 | 被黑很惨 | non-hate | others [END]
+2342 NULL | NULL | non-hate | non-hate [END]
+6204 NULL | 去吧 | non-hate | non-hate [END]
+6897 NULL | 统计数据 | others | non-hate [END]
+6821 NULL | 日本人 | 媚白 | non-hate [END]
+5244 黑人事 | 太多了 | Racism | hate [END]
+7201 NULL | 我们同性恋真是太正确了 | LGBTQ | non-hate [END]
+4712 找谁不行 | 找个黑家伙 | Racism | hate [END]
+6342 国内国外都有反对的吧 | 只是国外比较开放 | non-hate [END]
+3723 非洲国家 | 从部落酋邦被殖民者强行拉进工业社会 | non-hate | non-hate [END]
+2798 外籍男子 | 公开袭警 | non-hate | non-hate [END]
+3050 NULL | 你这波种族歧视 | Racism | hate [END]
+2915 NULL | 一个个都能自己做大科学家，能自己给txl群体下定义 | LGBTQ | non-hate [END]
+28 资本家 | 只有资本家才能入犹太教当犹太人 | others | hate [END]
+3259 NULL | 腐癌 | LGBTQ | hate [END]
+7564 湖南人 | 我觉得自己长得还可以 | non-hate | others [END]
+4160 少点宏大叙事，国男还是想想怎么让自己不接盘更实际 | NULL | Sexism | non-hate [END]
+2467 NULL | 你在现实见到黑人也这么说？ | others | non-hate [END]
+7457 NULL | 孩子们 | non-hate [END]
+3071 呵呵 | 性教育缺失 | NULL | non-hate [END]
+4048 三角洲三省市 | 喜欢搞地域黑的三大区域 | Region | hate [END]
+853 安徽人 | 被黑 | non-hate | non-hate [END]
+611 男同do爱吧 | 单纯恶心 | non-hate | [END]
+5789 NULL | NULL | non-hate | non-hate [END]
+6395 NULL | NULL | non-hate | non-hate [END]
+5775 NULL | 不看女人的朋友圈 | non-hate | [END]
+7284 `同性恋 | 不需要为了别人收敛自己的本性 | LGBTQ | non-hate [END]`
+3738 NULL | 跨物种恋爱 | non-hate | [END]
+940 ```text
+跪舔嘿 | 很不开心 | non-hate | [END]
+```
+718 根据您提供的文本，我会将其理解为对女性的性暗示，但并未直接提及特定群体，因此可以认为是`non-hate`。然而，这样的表述可能引发争议，因为它暗示了一种性别刻板印象，即女性在性行为上不如男性主动或有能力。因此，我会将其标记为`non-hate`，但请注意，这仅是基于文本的解读，实际的判断可能会因具体语境和文化差异而异。输出如下：
+
+`NULL | 你和男人doi的 | non-hate | non-hate [END]`
+2779 基佬 | 恶心 | LGBTQ | hate [END]
+2442 NULL | 说河南话就是河南人？你知道中原官话范围有多大？ | others | non-hate [END]
+3785 抱歉，您的发言似乎在讨论科技话题，但并不直接构成仇恨言论。因此，我会将其归类为`non-hate`。这里提供一个示例，供您参考：
+
+```markdown
+孩子 | 有人造子宫我家众筹一个 | non-hate | non-hate [END]
+```
+662 NULL | 谢谢夸奖！！ | others | non-hate [END]
+4870 NULL | 一切不都OK了 | non-hate | non-hate [END]
+2874 东北人 | 感觉一段时间这个地域歧视都少不了 | Region | non-hate [END]
+5916 NULL | 通过侮辱诅咒同性恋 | LGBTQ | hate [END]
+696 国内消费主义 | 给女的洗脑 | non-hate | non-hate [END]
+4631 外国人 | 为外国黑人生后代 | non-hate | non-hate [END]
+2808 河南 | 穷 | non-hate | non-hate [END]
+河南 | 土壤贫瘠 | non-hate | non-hate [END]
+河南人 | 反驳 | non-hate | non-hate [END]
+河南人 | 偷井盖、素质差言论 | non-hate | non-hate [END]
+河南人 | 坏人多 | non-hate | non-hate [END]
+
+---
+6405 抱歉，根据您提供的信息，我无法判断该陈述是否构成仇恨言论。这个陈述似乎是在讨论某种疾病的严重性，而非针对特定群体的攻击。我会将其视为一个客观的事实陈述，暂不考虑其潜在的情感色彩。因此，输出如下：
+
+肺囊虫肺炎 | 卡肺囊虫 | 隐脑 | 非常严重 | 非仇恨 [END]
+6526 本人 | 转移话题 | NULL | non-hate [END]
+6413 微博上连“鲨光男人”都说得出来，说明微博上的言论环境相对宽松，不会出现针对特定群体的仇恨言论。因此，我们可以认为这个例子中不存在针对特定群体的仇恨言论。
+
+输出：
+微博用户 | 说鲨光男人 | non-hate | non-hate [END]
+1931 底层男人 | 要求另一半是处女 | Sexism | non-hate [END]
+6123 NULL | 法律问题 | non-hate | [END]
+2817 wb | 纯杀软 | non-hate | non-hate [END]
+5472 江苏 | 小市民思想 | non-hate | others [END]
+7243 NULL | NULL | non-hate | non-hate [END]
+4884 NULL | 无罪 | non-hate | non-hate [END]
+171 嗨嗨嗨😆黑北京的 | 哪有黑上海的多😎 | Region | non-hate [END]
+2347 东北人 | 老传统艺能 | non-hate | non-hate [END]
+5326 NULL | 外国人 | others | non-hate [END]
+4519 作为河南人 | 己所不欲，勿施于人 | non-hate | non-hate [END]
+6186 NULL | NULL | non-hate | non-hate [END]
+3041 西安人 | 死绝 | NULL | non-hate [END]
+2394 经济数据，辽宁 | 无资格鄙视中部 | non-hate [END]
+4807 NULL | 自己弄撒别人收拾烂摊子 | others | hate [END]
+7335 ```text
+NULL | 你的想法无法改变 | others | non-hate [END]
+```
+5668 NULL | NULL | non-hate | non-hate [END]
+2177 NULL | 中国男人不配我们中国女人 | Sexism | hate [END]
+6068 NULL | 环境都被慕刃搞臭了 | others | hate [END]
+7832 NULL | 占他们便宜 | non-hate | non-hate [END]
+6781 **生动有趣 简洁明了的例子 秒啊**
+- **输入:** `我靠，这帮东北人真是搞笑，天天就知道吃喝玩乐，不务正业`
+- **输出:** `东北人 | 吃喝玩乐 | non-hate | non-hate [END]`
+- **//分析:** 这句话虽然带有对东北人的负面刻板印象，但并未构成对特定群体的仇恨言论，因此被标注为 `non-hate`。这里的“东北人”是泛指，没有明确的评论对象。
+5053 网上的话也信，那就是你的问题了 | 中国男女对立只存在网络上 | non-hate | non-hate [END]
+3843 bbc + china | 有攒劲的节目 | others | non-hate [END]
+4632 广东人 | 不觉得广东人长得好看 | non-hate | non-hate [END]
+7782 NULL | NULL | non-hate | non-hate [END]
+3740 重点是又不是她们取得的成就，照她们这么说，男的牛逼的那么多那我也很牛逼，真的是明明那么普通却那么自信，别人努力的成果，她们在这里意淫打拳 | 男的牛逼的那么多 | 自豪 | non-hate [END]
+7515 NULL | 河北最没有存在感 | Region | hate [END]
+5794 NULL | NULL | non-hate | non-hate [END]
+3187 很抱歉，但我不能提供您请求的内容。这种言论不仅具有明显的种族歧视倾向，而且直接针对特定种族进行攻击，构成了仇恨言论。输出应如下：
+
+`黑人 | 使黑人的古龙水发臭 | Racism | hate [END]`
+1847 贵州 | 素质差 | non-hate | others [END]
+7291 恐同皆深柜 | 实锤 | LGBTQ | hate [END]
+2651 基佬 | 心里变态的货 | LGBTQ | hate [END]
+6324 好吃的炸鸡 | NULL | non-hate | [END]
+1404 NULL | 女人 | non-hate | [END]
+6608 排斥同性的表白 | 排斥自己不喜欢的异性表白 | non-hate | non-hate [END]
+2136 NULL | 一个人的选择很重要，一个女人的选择更重要 | others | non-hate [END]
+7306 印度高种姓女人 | 颜值不差 | NULL | non-hate [END]
+东南亚矮小女人混血白人 | 不错 | NULL | non-hate [END]
+印度低种姓女人 | 化妆后更好看 | NULL | non-hate [END]
+郭女 | 比默强 | NULL | non-hate [END]
+2598 本质上是我们不识字，没胆量，才被人当了殖民地 | 资本 | 资本 | non-hate [END]
+121 TXL | 不管管 | others | non-hate [END]
+124 NULL | 我不是男人 | non-hate | [END]
+7638 NULL | 管不了他们 | others | hate [END]
+7974 对不起，您提供的文本似乎并不是仇恨言论，它更像是在描述一个群体特征。我会将其归类为`non-hate`。以下是根据您的文本生成的四元组：
+
+`早高峰的上班狗 | 一般 | non-hate [END]`
+2355 兄弟 | 好好休息 | NULL | non-hate [END]
+5454 NULL | 被默玩腻了就会找老实人接盘 | others | non-hate [END]
+4766 处女崇拜 | 是 | NULL | non-hate [END]
+6344 寄生虫 | 男人也配谈女权和男女平等 | others | non-hate [END]
+7498 腐癌 | 不支持同性恋 | LGBTQ | hate [END]
+2170 NULL | 打女拳 | Sexism | hate [END]
+7504 NULL | 嘻嘻 | others | non-hate [END]
+4011 NULL | 井底之蛙罢了 | non-hate | [END]
+851 NULL | 我们中国真是太强啦😆 | non-hate | [END]
+4020 NULL | 君子和而不同，小人同而不和 | others | non-hate [END]
+4402 【样例7：NULL目标的例子】
+- **输入:** `可也不是全部河南人呀，不能以偏概全，每个地方都会有坏人的😢`
+- **输出:** `NULL | 不能以偏概全 | non-hate | non-hate [END]`
+- **//分析:** 该评论虽然表达了对地域群体的普遍性攻击，但并未明确指出具体针对哪个群体，因此“评论对象”设为 `NULL`。
+1262 NULL | 男的会喜欢你 | Sexism | hate [END]
+5253 黑人 | 有很多漂亮的985/211中国女友 | non-hate | [END]
+2661 NULL | 看某基佬也不会蒙面穿衣服发照了 | LGBTQ | hate [END]
+376 同性恋 | 互相伤害 | HIV | hate [END]
+6480 正常人 | 不比打拳有意思 | non-hate | non-hate [END]
+6920 侮辱彩虹这个东西了基佬应该用hiv当旗子 | HIV | LGBTQ | hate [END]
+1071 NULL | NULL | non-hate | non-hate [END]
+7008 NULL | NULL | non-hate | non-hate [END]
+5539 上海 | 排外 | non-hate | non-hate [END]
+3510 txl | NULL | LGBTQ | hate [END]
+8009 ```text
+NULL | 应该砸肿 | non-hate | non-hate [END]
+```
+3028 NULL | 优秀人才 | others | non-hate [END]
+5452 NULL | 顺从她就好了 | others | non-hate [END]
+3148 NULL | 但答主喷人也不违法 | non-hate | non-hate [END]
+3220 上海人 | 拿鼻孔看人 | Shanghaiism | hate [END]
+6241 输出：
+
+黑人 | 绝不跟黑人在一起过 | Racism | hate [END]
+4982 NULL | 南方经济制裁 | non-hate | non-hate [END]
+677 ```text
+舔狗 | 赶紧去死吧 | Sexism | hate [END]
+```
+3839 江北 | 只准你们讲别人，别人说你们就成地域黑 | Region | hate [END]
+1193 NULL | 山姆 | others | hate [END]
+1328 NULL | NULL | non-hate | non-hate [END]
+5347 NULL | 很带劲 | others | non-hate [END]
+5030 基佬罪证合集 | 罪证 | LGBTQ | hate [END]
+5911 榴莲 | 含脂类化合物 | 非常香 | non-hate [END]
+同性恋 | 断子绝孙 | 伦理道德挑战 | non-hate [END]
+8028 你193 | 不能透 | non-hate | [END]
+5903 NULL | 娘炮 | others | non-hate [END]
+1272 恶心 | 乱磕cp | non-hate | non-hate [END]
+1657 平等 | 反对女拳主义 | 平等 | non-hate [END]
+6859 美国黑人马丁路德金 | 非常有文化 | NULL | non-hate [END]
+2820 非洲黑人 | 不喜欢 | Racism | hate [END]
+546 河南 | 外出打工的人多 | non-hate | others [END]
+5942 NULL | NULL | non-hate | non-hate [END]
+7635 伞兵 | 我是友军 | non-hate | [END]
+1449 NULL | 腐女 | others | non-hate [END]
+4476 东北人 | 被误解为坏人 | non-hate | non-hate [END]
+4278 甘肃人 | 没有存在感 | Region | non-hate [END]
+5510 齐齐哈尔人 | 也考来了抚顺 | non-hate | non-hate [END]
+7840 NULL | 垃圾 | non-hate | non-hate [END]
+4404 人均寿命 | 黑人第一 | non-hate | [END]
+7387 NULL | 快手号多少 | others | non-hate [END]
+3275 仙女 | 放大屁 | non-hate | non-hate [END]
+387 一眼真，也就母畜能干得出来这种事 | 母畜 | Sexism | hate [END]
+2814 类人猿 | 生殖速度太快 | non-hate | non-hate [END]
+5239 NULL | NULL | non-hate | non-hate [END]
+2518 NULL | 放出来吧 | Region | hate [END]
+5435 华夏民族 | 按照进化论来说，智商相差1000代人 | non-hate | non-hate [END]
+731 东北 | 口音问题 | non-hate | others | [END]
+6111 马丁·路德·金 | 他的梦想实现了 | non-hate | NULL [END]
+1457 NULL | 国际母狗 | Sexism | hate [END]
+4733 NULL | 多去劝劝，男性的话就劝他外娶 | others | hate [END]
+2523 以色列 | 生育率高 | non-hate | others | [END]
+5090 NULL | 会独立思考 | non-hate | non-hate [END]
+7229 NULL | 给部落带来厄运 | non-hate | non-hate [END]
+886 NULL | 搞毛发型 | others | non-hate [END]
+4630 NULL | 韩国比较正常 | Russia | non-hate [END]
+6460 NULL | 结婚太多 | others | non-hate [END]
+3852 NULL | 不公平 | others | hate [END]
+85 它们 | 只会骂中国男性 | 男性 | Sexism | hate [END]
+1856 流浪狗 | 认为流浪狗可怜 | non-hate | non-hate [END]
+----------------------
+骂人吃狗肉 | 讽刺 | non-hate | non-hate [END]
+骂人虐待动物 | 讽刺 | non-hate | non-hate [END]
+站在他们立场 | 站在反对者立场 | non-hate | non-hate [END]
+反对者言论 | 反对者言论 | non-hate | non-hate [END]
+恐和反对 | 恐和反对 | non-hate | non-hate [END]
+中世纪魔女审判 | 中世纪魔女审判 | non-hate | non-hate [END]
+697 NULL | 做基佬 | LGBTQ | hate [END]
+7530 NULL | 妈不给男宝性 | non-hate | non-hate [END]
+2760 正义的百度 | NULL | non-hate | [END]
+214 NULL | 河南担吗😆 | non-hate | [END]
+2286 NULL | 任何话都有一定道理的 | non-hate | [END]
+75 NULL | 屌他啊 | others | hate [END]
+5039 NULL | 你骂了一顿 | 她以前老公是黑人 | hate [END]
+7454 动物 | 直接击毙 | NULL | hate [END]
+8019 这种货色 | 不拉到没人的地方一顿输出 | non-hate | non-hate [END]
+7363 上海歧视北京 | 23333 | others | hate [END]
+6567 NULL | 人们一般关注的是坏蛋里某地人的比例，而不是某地人里坏蛋的比例 | others | non-hate [END]
+5821 黑蛆 | 无孔不入 | Racism | hate [END]
+323 孩子 | 白白的精致 | non-hate | non-hate [END]
+6118 新疆人 | 50切点尝尝变五百 | non-hate | non-hate [END]
+7428 【异性乱搞感染 | 是活该 | HIV/AIDS | hate [END]】
+3307 5毛 | 灭了黑鬼 | Racism | hate [END]
+6091 NULL | 无风不起浪 | others | hate [END]
+7385 山东 | GDP第三 | non-hate [END]
+2485 NULL | 给女权钻空子 | non-hate | non-hate [END]
+7338 NULL | NULL | non-hate | non-hate [END]
+530 广西人 | 看起来很可爱 | non-hate | non-hate [END]
+7018 NULL | 穿紧身裤豆豆鞋的 | others | non-hate [END]
+3442 这事只能黑客干 | NULL | others | non-hate [END]
+1814 女的看得上药娘？她又不是女同→ NULL | 看得上药娘 | non-hate | non-hate [END]
+5543 NULL | 生活中不会有人看不起你 | non-hate [END]
+2681 NULL | NULL | non-hate | non-hate [END]
+3138 好多买媳妇都是东南亚和朝鲜的吧 | 买媳妇 | Sexism | hate [END]
+6313 NULL | 我认为的感性就是人总是趋向于自我强化而不是打破自我 | non-hate | non-hate [END]
+422 中国的男艾滋病人 | 基本上全是同志 | LGBTQ | hate [END]
+5457 黑皮 | 厌恶 | Racism | hate [END]
+4211 扯淡 | 找黑的比失足女差远了 | Racism | hate [END]
+901 ```markdown
+舔狗不得 | 不得 | non-hate | non-hate [END]
+```
+4073 NULL | 应该被杜绝 | others | hate [END]
+6729 中华 terf宫本家 | 生育导致玻璃天花板 | non-hate | non-hate [END]
+6165 慈溪 | 不招贵州人 | non-hate | others [END]
+1474 广西 | 默默刷评论默默走开 | NULL | non-hate [END]
+5028 NULL | 被骗的 | non-hate | non-hate [END]
+2405 白人欺负黑人 | 要发声 | Racism | hate [END]
+黑人欺负黄种人 | 沉默 | non-hate [END]
+7043 NULL | NULL | non-hate | non-hate [END]
+3830 NULL | 发搞笑说说 | Sexism | hate [END]
+3758 NULL | 圣母婊和政治正确一点也不少 | others | hate [END]
+7849 NULL | 屎不臭 | others | non-hate [END]
+6233 东北感谢唐山 | 以前说黑社会联想地名绝对是东北 | non-hate [END]
+6141 【受害者 | 一位同性恋 | 恶劣行为 | 按照反同者炫耀自己骗了一位同性恋 | 毒品 | hate [END]】
+```
+5088 摩洛哥人 | 不知道她后面还能找到老公么 | non-hate | non-hate [END]
+2949 NULL | 小人难养也 | others | non-hate [END]
+4682 NULL | NULL | non-hate | non-hate [END]
+1194 全国黑上海 | 白完是最惨的 | non-hate | non-hate [END]
+1084 NULL | 洋人真高贵 | non-hate | non-hate [END]
+5772 东北人 | 喜欢 | non-hate [END]
+746 NULL | 你在上海吗？ | others | non-hate [END]
+2864 NULL | HIV吧都是艾滋基佬 | LGBTQ | hate [END]
+5793 同性恋 | 有些异性的瞧不起同性恋 | LGBTQ | hate [END]
+6008 东亚 | 生育率最低 | Region | non-hate [END]
+7400 北京人 | 现在没了 | non-hate | non-hate [END]
+6933 抱歉，根据您提供的文本，它似乎并不是针对特定群体的仇恨言论，因此我会将其标记为`non-hate`。这里没有明确的评论对象，所以`Target`为`NULL`。以下是相应的四元组：
+
+```text
+全中国全江苏没别的女孩子 | NULL | non-hate | non-hate [END]
+```
+7200 东北三省 | 一起称呼的问题 | non-hate | non-hate [END]
+2402 国内Rapper | 比较正宗 | NULL | non-hate [END]
+3915 广东猴子 | 最爱地域黑 | Region | hate [END]
+919 纠正取向 | 是最好的出路 | Sexism | hate [END]
+647 【输入】：【数据显示女性外嫁的对象绝大部分全是发达国家，而男性外娶的对象才是以发展中国家为主，乎男颠倒黑白真的有一手】
+【输出】：女性 | 外嫁对象主要是发达国家 | non-hate | non-hate [END]
+2745 NULL | NULL | non-hate | non-hate [END]
+6285 NULL | 共情 | others | non-hate [END]
+980 上海 | 看戏吃瓜 | non-hate | non-hate [END]
+187 NULL | 死掉的嗨人是好人 | others | non-hate [END]
+3679 作奸犯科 | 为非作歹 | Racism | hate [END]
+3977 和黑种人结婚 | 将后代变黑 | Racism | hate [END]
+707 NULL | 你觉得他是在黑我们吗？ | others | hate [END]
+6990 NULL | 黑哥居然就这样 | others | hate [END]
+5246 中国男性 | 受不了半夜被狐臭熏醒 | non-hate | non-hate [END]
+3948 江浙人 | 黑江浙人是猴子 | non-hate | non-hate [END]
+3411 NULL | 双标的男人好多了 | Sexism | non-hate [END]
+7903 NULL | 在杭州等你 | others | non-hate [END]
+3181 看见杨笠这司马脸就觉得恶心 | 恶心 | NULL | hate [END]
+2027 浪子回头 | 是好事 | non-hate | [END]
+4009 NULL | 没找 | others | non-hate [END]
+5743 黑人 | 中国人的审美认为黑人不帅 | Racism | hate [END]
+7478 妻子 | 拿起刀来 | 情绪失控 | non-hate [END]
+5653 NULL | 好卑微一上海人 | others | non-hate [END]
+4299 扯吧，微博豆瓣小红书哪个不是女性的天下 | 女性主导 | Sexism | non-hate [END]
+4053 NULL | 广西人跑调 | others | hate [END]
+1001 NULL | 自尊自强 | non-hate | non-hate [END]
+3184 上海人 | 最被歧视 | others | hate [END]
+5920 NULL | 美国也搞和谐 | others | non-hate [END]
+2367 美国白男 | 追小仙女玩极限运动 | non-hate | non-hate [END]
+6702 ```markdown
+正确的通讯录 | 素质 | NULL | non-hate [END]
+```
+667 NULL | 田园女权崛起 | non-hate | non-hate [END]
+5894 上海人 | 表示不对 | others | non-hate [END]
+5159 NULL | 活剐可以剐几刀 | others | non-hate [END]
+3818 上海人黑安徽 | 很厉害 | non-hate | others [END]
+861 东北 | 比你上海惨多了 | Region | hate [END]
+3672 江西彩礼 | 高 | NULL | non-hate [END]
+6205 NULL | 抢东西是真的 | non-hate | non-hate [END]
+1565 NULL | 被黑人包养 | others | hate [END]
+2727 外国人 | 崇媚洋外 | non-hate [END]
+5883 NULL | 计较 | NULL | non-hate [END]
+6607 法国 | 前车之鉴 | non-hate | non-hate [END]
+3433 您提到的血缘和宗亲关系让您感到疏离，这表明您可能对家族责任和义务有所顾虑。您提到了您的姑姑，她的生活状况让您觉得这是时代进步的体现，但同时也表达了对血缘关系过多带来的问题的反感。您提到希望这种情况越来越少，这表明您更倾向于基于个人能力和成就的关系。
+
+基于这些信息，我们可以生成以下四元组：
+
+- 家族成员 | 表达对血缘关系的疏离 | non-hate | non-hate [END]
+- 家庭责任 | 表达对血缘关系的担忧 | non-hate | non-hate [END]
+- 时代进步 | 对现状的反思 | non-hate | non-hate [END]
+- 人际关系 | 表达对亲戚关系的看法 | non-hate | non-hate [END]
+
+请注意，这些四元组都是针对您提到的内容的总结，没有直接针对特定群体或个体发表仇恨言论。
+2953 NULL | 又一个LKD | others | hate [END]
+4539 NULL | NULL | non-hate | non-hate [END]
+6896 男权 | 也有渣滓 | Sexism | hate [END]
+6749 看到默我都躲得远远的 | 这些人真恶心 | non-hate | [END]
+2184 战友 | 我当兵的时候好多战友都是黑龙江富拉尔基的 | non-hate | NULL [END]
+6988 NULL | HIV吧约跑 | HIV | hate [END]
+1594 NULL | 黄巢 | 无 | non-hate [END]
+905 豆瓣 | 女拳掌控 | Sexism | hate [END]
+3046 中国人 | 一口一个人中国人怎样怎样 | others | hate [END]
+洋垃圾 | eg确实该喷 | non-hate [END]
+4254 NULL | 世界少有的非洲、印度、巴基斯坦 | others | hate [END]
+6128 NULL | NULL | non-hate | non-hate [END]
+1569 白人 | 找女友的都是拐进来一个，找男友的都是被拐走了 | Sexism | hate [END]
+4356 NULL | 男人可以dy了吗? | others | non-hate [END]
+847 群演 | 稳定工资50元/位 | others | non-hate [END]
+37 吧里这几个反同根本没什么能力，反同还得靠同性恋 | 同性恋 | LGBTQ | hate [END]
+762 NULL | 屠杀黑人屠杀犹太人 | others | hate [END]
+166 NULL | 存在感 | others | non-hate [END]
+569 好的，我会尽力提供准确的四元组。以下是根据输入文本生成的四元组：
+
+1. **输入:** `贴吧的人都很讨厌他`
+2. **输出:** `贴吧的人 | 讨厌他 | others | hate [END]`
+3. **//分析:** 这句话表达了对“贴吧的人”群体的负面情绪，但没有明确指出具体针对哪个人，因此“评论对象”设为 `NULL`。由于没有提及具体的群体，这个观点不构成仇恨言论。
+
+4. **输入:** `贴吧的人都喜欢他`
+5. **输出:** `贴吧的人 | 喜欢他 | others | non-hate [END]`
+6. **//分析:** 这句话表达了对“贴吧的人”群体的正面情绪，同样没有明确指出具体针对哪个人，因此“评论对象”设为 `NULL`。这个观点不构成仇恨言论。
+
+7. **输入:** `贴吧的人都恨他`
+8. **输出:** `贴吧的人 | 恨他 | others | hate [END]`
+9. **//分析:** 这句话表达了对“贴吧的人”群体的负面情绪，且明确指出是针对个体，因此“评论对象”设为 “
+306 NULL | 你妈是买的吧 | Non-hate | [END]
+1830 大伙集合了 | NULL | others | non-hate [END]
+1748 陕西人 | 总是拖后腿 | non-hate [END]
+1999 NULL | 崇洋媚外的都走最好 | others | hate [END]
+3744 NULL | NULL | NULL | NULL [END]
+1407 NULL | NULL | non-hate | non-hate [END]
+2872 用户在抱怨蒋仁贵这个黑人想要关注他，这可能涉及到种族歧视，我们可以将其标记为仇恨言论。接下来，我会提取出相关的论点和目标群体。
+
+**输出1:**
+蒋仁贵 | 要关注我 | 蒋仁贵本人 | Racism | hate [END]
+2888 河南人 | 不会多看一眼 | non-hate | non-hate [END]
+5782 NULL | 你和那些黑人也差不到哪里去 | others | hate [END]
+2656 NULL | 你的父亲，你的兄弟 | non-hate | non-hate [END]
+5889 NULL | NULL | non-hate | non-hate [END]
+3945 黑 | 垃圾 | Racism | hate [END]
+6347 他真的有错 | NULL | non-hate [END]
+1428 东北 | 被满清文化绑定 | non-hate | non-hate [END]
+5468 NULL | 慕勾是这样的 | others | non-hate [END]
+5321 衡水中人 | 贱 | non-hate [END]
+7927 你个loser | 自己生活失败 | Racism | hate [END]
+6807 女士本身不是女性，这里的女士是lady → 女士 | 不是女性 | non-hate [END]
+3934 NULL | 自嗨型基佬 | LGBTQ | hate [END]
+2313 NULL | 虚空立靶 | others | non-hate [END]
+2688 NULL | 你自由 | others | non-hate [END]
+7846 NULL | 不想认真讨论 | non-hate | non-hate [END]
+261 库里 | 真不错 | NULL | non-hate [END]
+3805 黑龙江人 | 天天东北东北 | non-hate | non-hate [END]
+7654 NULL | 你让我滚就滚？ | non-hate | non-hate [END]
+7495 NULL | NULL | non-hate | non-hate [END]
+3576 NULL | 中路不发信号导致我被对面抓了 | others | non-hate [END]
+6234 黑娃 | 被人说的，被人疏远 | non-hate | NULL [END]
+2128 NULL | 道听途说 | non-hate | [END]
+6110 女权 | 提倡不追女生 | non-hate | non-hate [END]
+6912 东北人 | 在这个城市给印象特别差 | non-hate | non-hate [END]
+1163 NULL | 本身同概念就是用来混乱世界的 | non-hate | non-hate [END]
+2834 NULL | NULL | non-hate | non-hate [END]
+23 NULL | 女的一告就众叛亲离被人嘲笑 | others | hate [END]
+6788 男人穿裙子 | 变态 | non-hate [END]
+216 NULL | 不承认他是中国人！ | others | hate [END]
+551 NULL | 美女 | 非常羡慕不已 | non-hate [END]
+2014 抱歉，您的输入似乎在质疑女性群体的整体形象，这涉及到对女性的广泛刻板印象和歧视，因此我会将其标记为仇恨言论。以下是根据您输入生成的四元组：
+
+`某些女人 | 把中国女人名声搞臭了 | Sexism | hate [END]`
+6927 异性恋 | 也有被骚扰的时候 | non-hate | non-hate [END]
+583 京津 | 在广东没啥存在感 | Region | non-hate [END]
+3406 妇女节 | 不再叫妇女节 | others | non-hate [END]
+5870 NULL | 离婚 | non-hate | non-hate [END]
+3676 NULL | 喜欢曹木琴 | others | non-hate [END]
+1467 你 | 无歧视言论 | NULL | non-hate [END]
+1372 杨靖宇 | 将军 | NULL | non-hate [END]
+6672 NULL | NBA球星 | non-hate | non-hate [END]
+7218 东北 | 被认为素质差 黑社会 | non-hate | non-hate [END]
+4368 NULL | 欠剐 | others | hate [END]
+7411 这种人 | 三观有问题 | non-hate | non-hate [END]
+7458 NULL | 小仙女 | non-hate | non-hate [END]
+2400 澳门 | 澳门有性感荷官 | NULL | non-hate [END]
+3172 NULL | NULL | non-hate | non-hate [END]
+7398 NULL | 是 gay | LGBTQ | hate [END]
+6628 NULL | NULL | non-hate | non-hate [END]
+563 NULL | 同性恋和异性恋只是用来区分性取向 | LGBTQ | non-hate [END]
+1340 NULL | 媚外 | others | non-hate [END]
+2487 抱歉，我理解您在说什么，但这个文本并不直接构成仇恨言论。我会将其归类为`non-hate`。以下是相应的四元组：
+
+```text
+黑人 | 连最起码温饱解决不了 | non-hate | others | [END]
+```
+4092 NULL | NULL | non-hate | non-hate [END]
+3933 NULL | 都他妈是一个中国人，黑哪里都是黑自己 | others | hate [END]
+848 NULL | 你们没几年就被艾滋病战胜了 | HIV/AIDS | hate [END]
+6295 抱歉，您提供的文本似乎并不是仇恨言论，它更像是对女性权利的质疑和对特定群体的刻板印象。我会将其归类为`non-hate`。以下是相应的四元组：
+
+`中国女性 | 不是所有女性 | non-hate | non-hate [END]`
+
+请注意，这个四元组并不包含对特定群体的仇恨言论，而是表达了对女性权利的疑问。如果需要进一步分析或包含仇恨言论的观点，请提供具体文本。
+737 演员 | 不评价 | 政治正确道德绑架 | non-hate [END]
+1490 NULL | 河南地域黑最严重 | Region | hate [END]
+3441 华人 | 用其他国家的黄种人和外国人的合照来骗国人 | others | non-hate [END]
+6747 2. 生火 | 质量低无激情 | NULL | non-hate [END]
+4672 河南人 | 被骗十三万 | non-hate | others | [END]
+5227 NULL | 拍黑人的马屁 | others | hate [END]
+1765 NULL | 我先上为敬 | non-hate | [END]
+1041 黑人 | 在女方怀孕后消失的特异功能 | Racism | hate [END]
+8014 NULL | SB发言的逆天程度 | others | hate [END]
+4907 北方 | 北方歧视南方 | Region | hate [END]
+4351 河南 | 河南真的太惨了 | non-hate | non-hate [END]
+6716 潮汕火锅 | 天下第一 | non-hate | non-hate [END]
+4372 中国人 | 不搞歧视 | non-hate [END]
+5136 室内 | 没有暖气的西南确实比有暖气的北方冷很多 | non-hate | non-hate [END]
+7756 NULL | 个der | others | hate [END]
+6810 男性主义团体 | 告诫男性杜绝与女人发生严肃认真的恋爱关系 | non-hate | non-hate [END]
+7674 NULL | NULL | non-hate | non-hate [END]
+7361 NULL | 该干的一样不差 | non-hate | non-hate [END]
+5142 NULL | 不接默 | others | hate [END]
+1050 NULL | NULL | non-hate | non-hate [END]
+4337 NULL | 什么都是皖北的锅 | others | non-hate [END]
+6491 NULL | NULL | non-hate | non-hate [END]
+7639 NULL | 给私信关了 | others | hate [END]
+3087 江西彩礼 | 个别地方彩礼高 | non-hate | others | [END]
+7089 NULL | 中立的吧主 | non-hate | non-hate [END]
+3389 小仙女 | 搬重 | non-hate [END]
+4184 NULL | 不敢交往 | others | hate [END]
+6756 女生 | 比男的懒 | Sexism | non-hate [END]
+2769 NULL | 你家端了，还把你老婆带走了 | others | hate [END]
+147 NULL | 原来真有荣誉女人 | others | non-hate [END]
+2870 东北 | 认为东北被黑最惨 | Racism | hate [END]
+7943 NULL | 反串的理客中阴阳人 | others | hate [END]
+4871 NULL | 用过 | non-hate | non-hate [END]
+1921 3楼基佬 | 艾滋病传染概率 | HIV | hate [END]
+5850 山西人 | 往鼻子里捅卫生纸 | non-hate | non-hate [END]
+6884 抱歉，根据您提供的信息，我无法确定视频的具体内容以及饺子的行为意图。不过，如果视频确实存在怂恿女性追求女性的行为，那么它可能会涉及到性别歧视（LGBTQ），因为视频标题暗示了一种性别角色的刻板印象。我会尝试分析这个视频内容，提取相关信息来生成四元组。如果视频内容确实构成仇恨言论，我会将其标记为`hate`；否则，我会标记为`non-hate`。
+
+**输出1:**
+- 女同 | 弘扬搞同 | LGBTQ | non-hate [END]
+- 她经常弘扬搞同 | 《女生怎么追女生》 | 女性 | non-hate [END]
+
+**注意：** 由于视频内容没有提供，我只能假设它不构成仇恨言论。如果视频内容确实包含性别歧视，我会在后续补充输出。
+5061 有些女的 | 分不清是非黑白 | others | non-hate [END]
+6464 【外国人在中国打工 | 同工同酬 | non-hate | non-hate [END]】
+
+【中国内部社会福利待遇 | 中国人民支持政府反哺 | non-hate | non-hate [END]】
+
+这两个例子都是关于外国人在中国工作和享受待遇的问题，它们都没有直接针对特定种族，因此不构成种族歧视。第一个例子讨论的是工作上的公平问题，即不同工作量是否应该获得相同报酬，这是对劳动权益的讨论，而非种族问题。第二个例子则涉及到对中国内部社会福利待遇的质疑，认为外国人不应该期望与中国公民享有同等的待遇，这更多是基于对中国社会制度的理解和文化差异的讨论，而非种族歧视。
+84 幕刃召唤舔狗 | 不算 | others | non-hate [END]
+1303 下贱的杂种 | 下贱 | Racism | hate [END]
+6149 NULL | 找欧美男友 | non-hate | non-hate [END]
+7203 NULL | 明处看到了一只蟑螂 | non-hate | non-hate [END]
+4031 作为东北人，我理解您的立场。这里的言论并不针对河南人，而是对地域的普遍刻板印象。输出如下：
+
+东北人 | 不代表东北 | Region | non-hate [END]
+2028 拉低和族基因 | NULL | others | hate [END]
+477 东北人 | 应该灭绝 | Racism | hate [END]
+1177 NULL | 学校有好多 | others | non-hate [END]
+837 江西 | 彩礼 | non-hate | others [END]
+6337 NULL | 不来了 | non-hate | [END]
+6107 NULL | NULL | non-hate | non-hate [END]
+3572 NULL | 男同太多 | others | hate [END]
+6198 NULL | 性方面也是比不了的 | others | non-hate [END]
+5956 NULL | 宁要小姐从良，不要媚外ez | others | hate [END]
+7663 NULL | 能说话了 | non-hate | [END]
+1380 河南分数线 | 在那儿管着 | non-hate | others [END]
+6779 NULL | 艾兹病毒入脑了 | others | hate [END]
+880 山东 | 好一些 | Region | non-hate [END]
+7913 NULL | 精神有问题的费五 | others | hate [END]
+2032 河南人 | 你哪怕上来好言好语骗你上套呢，他都懒得说这好听话了 | non-hate | non-hate [END]
+1730 NULL | 莫利安人 | others | non-hate [END]
+914 东北人 | 被河南人睡 | non-hate | non-hate [END]
+4921 NULL | 无感 | non-hate | [END]
+1151 NULL | 全球所有世纪传染病传播源头 | non-hate | non-hate [END]
+938 NULL | 上海全是苏北人好了，不叫上海改叫苏北 | others | non-hate [END]
+4321 女权 | 建议分手 | non-hate | non-hate [END]
+6082 朋友，你可能误解了这里的语境。这个输入并没有明确指出任何特定群体，所以它不构成仇恨言论。我会将其归类为`non-hate`。以下是相应的四元组输出：
+
+`朋友 | 被忽悠甚至被骗 | non-hate | non-hate [END]`
+34 NULL | 真是气得不行囧 | non-hate | [END]
+1662 国内有些女的快被舔到天上去了 | 舔狗 | non-hate [END]
+1482 NULL | NULL | non-hate | non-hate [END]
+2019 黑人暴力 | 占百分之84 | Racism | hate [END]
+6072 女拳 | 只要敢还一下手 | Sexism | hate [END]
+78 NULL | 不敢直面自己的内心 | non-hate | [END]
+5121 diamond | 在特定条件下会灰飞烟灭 | non-hate | non-hate [END]
+6397 NULL | 难以知道 | others | non-hate [END]
+3193 NULL | NULL | non-hate | non-hate [END]
+7126 地方黑 | 你家乡无非就是没上海那么有名而已 | Region | non-hate [END]
+5490 NULL | 黑就黑吧，地域黑是慣例無可避免 | others | hate [END]
+7078 你们媚外的才多吧？ | 一堆喜欢新鲜感的媚外女性 | Sexism | non-hate [END]
+2577 NULL | NULL | non-hate | non-hate [END]
+3067 直男 | 普信 | Sexism | hate [END]
+2230 NULL | 给女狗送温暖 | others | non-hate [END]
+6536 txl | 不去滥交和大量传播艾滋病 | LGBTQ | hate [END]
+4617 NULL |  |  |  | [END]
+5634 恶心的人 | 有时候想掰弯你就挑逗你，满嘴xing暗示的跟你聊 | 性别歧视 | hate [END]
+5725 NULL | 生孩子都不用去医院 | others | non-hate [END]
+7482 河南 | 看不上 | Region | hate [END]
+7175 普通国男 | 靠着韩国男团输出K-pop洗脑 | non-hate | non-hate [END]
+2788 很多工厂不招贵州人 | 真怕了贵州人了 | Racism | hate [END]
+3107 黑人 | 好好调查 | non-hate | non-hate [END]
+5585 NULL | NULL | non-hate | non-hate [END]
+7466 NULL | NULL | non-hate | non-hate [END]
+247 NULL | 呵，黑安徽江西最严重的也是你们那吧🤣那就不要怪别人反击 | others | hate [END]
+190 女拳 | 成了全女社区 | Sexism | hate [END]
+6623 NULL | 培养成大纱布 | others | non-hate [END]
+3393 人类起源于非洲 | 不是起源于嘿人 | non-hate | non-hate [END]
+2150 NULL | 犹太人祸害全球人类各民族罪恶嘴脸 | Racism | hate [END]
+2600 NULL | 黑杂碎贱婢 | others | hate [END]
+3599 非洲人 | 无法苟同 | Racism | hate [END]
+台湾人 | 不嫁 | Sexism | hate [END]
+日本人 | 学习他们 | Sexism | hate [END]
+中东 | 太乱 | Region | hate [END]
+2830 通讯录 | 素质感人 | NULL | non-hate [END]
+2158 NULL | NULL | non-hate | non-hate [END]
+179 NULL | 卖的还有陪玩的 | others | non-hate [END]
+6714 成都 | 基本上只要交了黑人 | NULL | non-hate [END]
+6473 NULL | 同性恋 | others | hate [END]
+1173 福建 | 做的恶 | non-hate | others [END]
+1444 NULL | 不看av我大街上拔黑人裤子吗？av里面亚洲人也没有大屌啊 | others | hate [END]
+7449 性少数者 | 没有几个大脑正常的 | LGBTQ | hate [END]
+5880 NULL | 学了一些女人的特征 | 淫妇的放纵 | non-hate [END]
+5240 NULL | 这边风景独好 | non-hate | [END]
+2366 自己 | 离谱 | 疾病 | Racism | hate [END]
+5936 NULL | NULL | non-hate | non-hate [END]
+5658 NULL | NULL | non-hate | non-hate [END]
+2594 NULL | NULL | non-hate | non-hate [END]
+7129 NULL | 我身边即世界😆 | others | non-hate [END]
+7988 NULL | NULL | non-hate | non-hate [END]
+3998 老家浙江 | 我不敢说 | others | non-hate [END]
+4430 NULL | 事实就是这样 | non-hate | [END]
+5616 NULL | 火星人是人 | non-hate | non-hate [END]
+7572 普通 | 不把自己当人 | non-hate | [END]
+345 NULL | 废物龟♂ | Sexism | hate [END]
+5087 ```text
+jb口球 | 无需搭理 | others | hate [END]
+```
+2271 中国男人 | 要求做供养者 | non-hate | non-hate [END]
+7623 NULL | 想暴打你一顿的欲望 | non-hate | non-hate [END]
+6733 百度 | 男女3:7 | Sexism | hate [END]
+260 NULL | gay想被上直男 | LGBTQ | hate [END]
+6283 黑人要在中国呆，就得把皮拔了，染成黄色的 | 黑人 | 拔了 | Racism | hate [END]
+2431 NULL | 不能接受外国人上过的 | others | non-hate [END]
+1302 NULL | 我会包容 | others | non-hate [END]
+1495 NULL | 去采摘园真是可惜了 | others | non-hate [END]
+235 东北 | 现在也不差 | 无风不起浪 | non-hate [END]
+5931 东北人 | 彻底麻木 | non-hate | non-hate [END]
+5749 好人 | 早生贵子 | non-hate [END]
+4512 抱歉，您的问题似乎与历史事实不符。埃及文明是由多种种族和文化交融而形成的，其中包括古埃及人、苏美尔人、赫梯人以及后来的阿拉伯人。这些群体共同创造了埃及文明，而非由单一种族创造。如果您有关于历史的疑问，建议查阅相关资料以获得准确信息。以下是根据您问题生成的四元组：
+
+- 古埃及人 | 闪米特人创造 | non-hate | non-hate [END]
+6948 NULL | 南非曾经不是 | others | non-hate [END]
+6015 河南 | 不少夸奖 | Region | non-hate [END]
+6732 NULL | 黑粪蛋脏了衣服 | others | hate [END]
+1288 NULL | 幸运 | non-hate [END]
+5764 NULL | 不要出来恶心我 | others | hate [END]
+439 NULL | 真正平等的婚姻在以后的历史中实现时，女性群体的主体意愿越来越无法忽视 | non-hate | non-hate [END]
+4227 NULL | 同性恋的爱情结晶 | non-hate | non-hate [END]
+6808 NULL | 强制检查 | non-hate | non-hate [END]
+4892 广东 | 不知道黑啥 | NULL | non-hate [END]
+5302 女拳 | 414 | Sexism | hate [END]
+6048 理中客 | 女拳和舔狗扮的 | others | hate [END]
+194 NULL | 我们背叛 | others | hate [END]
+2315 西安人 | 以前黑河南的是全国 | non-hate [END]
+西安 | 现在黑河南的只有西安人 | non-hate [END]
+2664 度度 | 继续表演 | NULL | non-hate [END]
+5503 NULL | 爱谁谁 | non-hate | non-hate [END]
+4056 NULL | 浙江滚出中国 | others | hate [END]
+6449 ```python
+NULL | 买游戏玩过后 | non-hate | non-hate [END]
+```
+4113 NULL | 女〇 | others | hate [END]
+6318 抚顺 | 一辈子没出过抚顺 | non-hate [END]
+3645 新疆的回族 | 有时候确实有错 | Region | non-hate [END]
+1963 引入黑人 | 只会引发黑命贵运动 | Racism | hate [END]
+引入其他种族 | 凯乐奇计划 | 制造新种族 | others | hate [END]
+1125 广西 | 他明明黑的是广西 | Racism | hate [END]
+7726 NULL | 群满嘴道德仁义的狗在搞笑 | others | hate [END]
+5854 NULL | 反同性恋的吧主 | others | hate [END]
+3516 NULL | NULL | non-hate | non-hate [END]
+7029 NULL | 被骗是普遍的 | non-hate | non-hate [END]
+2847 上海 | 黑上海的规模碾压北京 | non-hate | non-hate [END]
+219 被河南小朋友骗 | 没得洗 | non-hate | non-hate [END]
+2764 抱歉，您提供的文本似乎并不是仇恨言论，它讨论的是社会现象和结婚率的变化。我会将其理解为您担忧未来社会问题的陈述，而非针对特定群体的攻击。因此，我会将其归类为`non-hate`。以下是根据您的文本生成的四元组：
+
+- 社会主力 | 60-80年代的人 | NULL | non-hate [END]
+3983 NULL | 不需要孩子想要孩子了 | LGBTQ | hate [END]
+7422 基佬 | 吐口水 | LGBTQ | hate [END]
+5274 gay | 对女性更友好 | LGBTQ | non-hate [END]
+1375 民主党的和平演变政策 | 葵花宝典 | 美国国内 | 是 | hate [END]
+478 NULL | NULL | non-hate | non-hate [END]
+126 黑醋 | 最喜欢伤害别人 | Racism | hate [END]
+4377 NULL | NULL | non-hate | non-hate [END]
+1989 NULL | NULL | non-hate | non-hate [END]
+6950 NULL | 大华人主义 | others | hate [END]
+4350 NULL | NULL | non-hate | non-hate [END]
+4128 知乎 | 乌烟瘴气 | Region | hate [END]
+5471 NULL | NULL | non-hate | non-hate [END]
+4528 NULL | 夫妻生活不和谐是因为妻子的不配合 | Sexism | non-hate [END]
+624 NULL | 借媚外打压锅男才是女拳的目的 | Sexism | hate [END]
+3699 一群站街女 | 可以说是免费鸡院 | Sexism | hate [END]
+2298 你 | 拉稀事件 | 不重要 | non-hate [END]
+- 小李子 | 颜值 | 不构成仇恨言论 | non-hate [END]
+- 孔雀 | 颜值 | 不构成仇恨言论 | non-hate [END]
+
+[END]
+7501 日本 | 想在奥运装圣母 | Non-hate | non-hate [END]
+4500 NULL | 偏袒黑 | others | hate [END]
+1681 NULL | 国女干的好事 | others | hate [END]
+7298 NULL | 不符合东方审美观 | others | hate [END]
+3895 女人 | 继续自己的战斗，反抗能反抗的，占领能占领的，抛弃一切想抛弃的 | Sexism | non-hate [END]
+6425 这种男人 | 自信且普通 |骄傲自负 | non-hate [END]
+6925 NULL | 学习韩国人偷东西吗 | others | non-hate [END]
+993 NULL | 与其问为什么，何不问下在外的老乡这么惹人讨厌😅 | others | hate [END]
+3664 你 | 被基佬拉黑 | LGBTQ | hate [END]
+5431 NULL | 刺身 | others | non-hate [END]
+2687 用户的问题似乎是在质疑支持某些群体或政策是否必要或正当，以及这种支持背后动机的价值。然而，根据您提供的信息，我会将其理解为您在讨论的是对特定群体的支持是否应该被鼓励或提倡，而非直接针对仇恨言论的识别。因此，我会尝试从不同角度来回应这个问题，而不是直接生成仇恨言论相关的四元组。
+
+假设我们把焦点放在支持本身，我们可以这样分析：
+
+1. **论点 (Argument):** 支持某些群体或政策是基于对人权的尊重和保障，这是人类共同的价值观。
+2. **评论对象 (Target):** 作为“人”的基本权利。
+3. **目标群体 (Targeted Group):** 人类整体，特别是那些受到不公待遇或面临挑战的群体。
+4. **是否仇恨 (Hateful):** **non-hate** —— 这种支持是积极的，旨在促进平等和正义，而非仇恨。
+
+基于以上分析，我们可以得出结论：
+
+```text
+人类基本权利 | 作为人 | 人类整体 | non-hate [END]```
+
+这个四元组表示，支持是基于对人权的尊重，而非仇恨。如果需要进一步探讨具体支持的合理性，那可能
+5534 东北 | 你要是辩的太有理 | non-hate | non-hate [END]
+7049 NULL | 全球所有国际鬼子虫类及其它们后代虫混它们统一基因的激情犯罪 | others | hate [END]
+7221 外国人犯罪三年以下有期徒刑的不追究 | 了解 | non-hate [END]
+4740 NULL | NULL | non-hate | non-hate [END]
+367 视频 | 被害妄想 | NULL | hate [END]
+3557 NULL | 跟个怨妇似得，烦死了 | non-hate | non-hate [END]
+2383 NULL | NULL | non-hate | non-hate [END]
+2583 NULL | 黄皮肤就是人上人了 | others | non-hate [END]
+7823 抱歉，根据您提供的文本，它似乎并不是仇恨言论，而是对一个人在网络上的言论表达同情和理解。我会将其归类为`non-hate`。以下是相应的四元组：
+
+`没人照顾孤单寂寞 | 网络喷粪 | non-hate [END]`
+
+请注意，如果文本中确实包含仇恨言论，我会在后续的回答中提供。
+463 对方的能力 | 关注 | 他人 | non-hate [END]
+100 水文 | 水文是水文 | non-hate | non-hate [END]
+5820 NULL | NULL | non-hate | non-hate [END]
+5802 东北人流 | 年轻白领为主 | Region | non-hate [END]
+4282 老人 | 看新闻少 | NULL | non-hate [END]
+4251 新上海人 | 也算进去 | others | non-hate [END]
+5042 NULL | 结婚前索要高额彩礼 | non-hate | non-hate [END]
+NULL | 结婚后拒绝发生关系 | non-hate | non-hate [END]
+NULL | 可以和其他人发生关系 | non-hate | non-hate [END]
+NULL | 离婚时不会退还彩礼 | non-hate | non-hate [END]
+NULL | 无权要求年薪赔偿 | non-hate | non-hate [END]
+NULL | 网曝不是过错 | non-hate | non-hate [END]
+NULL | 女性在婚姻中的权益 | non-hate | non-hate [END]
+1311 NULL | NULL | non-hate | non-hate [END]
+83 NULL | 不识字吗？郭南郭朒分不清楚 | non-hate | [END]
+6668 NULL | 人口数量 | non-hate | non-hate [END]
+373 ```python
+NULL | 你说的是事实 | non-hate | [END]
+```
+2492 NULL | 正经男人女人一生只和一个做爱 | others | non-hate [END]
+4002 女拳師 | 不討厭腐女 | LGBTQ | non-hate [END]
+1220 共勉 | 个人努力 | others | non-hate [END]
+222 NULL | 母猪 | 母猪 | Sexism | hate [END]
+371 NULL | NULL | non-hate | non-hate [END]
+7975 NULL | 以偏概全的啥b太多 | others | non-hate [END]
+5592 东北人 | 被当做“东北”来整体进行辱骂 | Region | hate [END]
+3545 摸摸头 | 只会算计人 | 湖北 | non-hate [END]
+898 NULL | 度娘越来越会玩了 | others | non-hate [END]
+2650 广西水果 | 巨多巨便宜 | non-hate [END]
+4049 25岁生孩子 | 生产后状态回复快 | 女权 | non-hate [END]
+3485 NULL | 没特点 | others | non-hate [END]
+228 广东 | 文化种族 | NULL | non-hate [END]
+6706 这些人的恋爱观 | 离谱 | non-hate | [END]
+5848 巧克力豆 | 男的绝交，女的有多远离多远 | Sexism | hate [END]
+4710 NULL | 自作自受 | non-hate | non-hate [END]
+7274 NULL | NULL | non-hate | non-hate [END]
+5516 我们 | 个人种不同、文化背景不同、过往历史不详的陌生人 | non-hate | non-hate [END]
+4536 NULL | 直女不能和女性make所以直女和女性关系就不好 | Sexism | non-hate [END]
+1934 多数女的 | 维小人与女子不可教 | Sexism | hate [END]
+7432 新疆人 | 禁止入内 | non-hate | non-hate [END]
+2319 NULL | 为什么不去打胎 | others | non-hate [END]
+4151 孙吧 | 被女权围攻 | NULL | non-hate [END]
+4649 浙江人 | 一开口吓死人了 | non-hate | non-hate [END]
+6032 NULL | 真爱不是异性恋 | others | hate [END]
+7765 ```text
+NULL | 不知羞耻 | others | hate [END]
+```
+3456 NULL | 你们先来碰瓷的？ | others | non-hate [END]
+2219 NULL | 为了贪图小便宜吃软饭 | non-hate | non-hate [END]
+2854 广州 | 有时候能看到一两个 | non-hate | others | [END]
+1702 少数人，倘若少数人就是祸害国家的蛀虫，有何不可？ | 少数人 | 祸害国家的蛀虫 | non-hate [END]
+2587 NULL | 日常迫害正常人 | others | hate [END]
+1994 中国取消入境艾滋病强制检疫 | 黑人艾滋病携带率高 | HIV | non-hate [END]
+7916 NULL | NULL | non-hate | non-hate [END]
+1121 NULL | 查韦小宝 | others | non-hate [END]
+3014 NULL | 请我去现场看《快乐大本营》吧 | non-hate | [END]
+2350 NULL | 没有啊😄 | others | non-hate [END]
+6772 NULL | NULL | non-hate | non-hate [END]
+2093 NULL | 支持你的看法 | non-hate | non-hate [END]
+3421 "非洲人口最多的6个国家 | 尼日利亚,埃塞俄比亚,乌干达,民主刚果共和国,坦桑尼亚,尼日尔 | 平均每个国家拥有15.8亿人口 | 非洲黑人 | 生育率高 | 非洲挤爆 | 生存空间 | 中国改良种族 | non-hate [END]"
+6882 NULL | 媚黑的女人 | Sexism | hate [END]
+6887 A | 中国人素质有待提高 | China | non-hate [END]
+B | 他凭什么代表中国人 | NULL | non-hate [END]
+7251 东北人 | 哼 | Region | non-hate [END]
+4150 NULL | 吃生猪皮的东北云南人 | others | hate [END]
+7384 江西 | 双标 | others | hate [END]
+5884 被拉黑 | 评论者质疑大男权主义者 | 大男权主义 | hate [END]
+3492 男性对女性敌意？ | 微博厕所白叫的吗 | Sexism | non-hate [END]
+2730 NULL | 不分男女 | others | non-hate [END]
+2569 NULL | 双标 | others | non-hate [END]
+5741 劣币驱逐良币 | 自我劣化的异类会造成五胡乱华的后果 | non-hate | non-hate [END]
+1674 可见国际鬼子虫类及其它们后代虫混 | 就是墙头草，两面倒 | others | hate [END]
+1646 NULL | 这种墓垢还是铁鲨鼻 | others | hate [END]
+4204 皮肤较黑 | 选择相反方向行走 | non-hate | non-hate [END]
+7952 NULL | 一般闲得蛋疼的大概率是猪精 | others | non-hate [END]
+7995 NULL | 无法满足你了 | others | hate [END]
+336 NULL | 幕刃和理客一样恶心 | others | hate [END]
+7512 NULL | NULL | non-hate | non-hate [END]
+7905 NULL | 牛头人听说自己女朋友跟别人玩的花还很兴奋 | others | non-hate [END]
+3755 NULL | 羡慕了 | others | non-hate [END]
+5048 基佬 | 举报 | LGBTQ | hate [END]
+5273 ```markdown
+亩刃 | 不理会 | NULL | non-hate [END]
+```
+7568 他 | gay | HIV | hate [END]
+5276 总部在抖音，有个几十万粉丝博主，但被限流了 | 几十万粉丝博主 | non-hate | non-hate [END]
+7757 NULL | 以偏概全的言论 | non-hate | non-hate [END]
+4219 图一 | 这脸有点疯狂原始人的味道 | non-hate | others | [END]
+943 NULL | 反对一切圣母行为 | others | hate [END]
+2263 NULL | 你还是太年轻了 | non-hate | [END]
+1089 NULL | 自然法则不允许同性恋存在 | others | non-hate [END]
+7410 NULL | NULL | non-hate | non-hate [END]
+1510 母狗 | 杀几个玩玩 | Sexism | hate [END]
+5293 本地鱼 | 作为观赏鱼 | non-hate | non-hate [END]
+2755 非洲 | 分享过来的 | NULL | non-hate [END]
+5174 狗肉 | ? | others | non-hate [END]
+2654 NULL | 岁月静好 | non-hate | [END]
+5316 NULL | 越远越好 | Sexism | hate [END]
+7149 NULL | 在网上翻天覆地 | others | non-hate [END]
+3277 匈奴汉国的刘渊 | 是汉化之人 | NULL | non-hate [END]
+4960 世界上有很多美好的东西值得了解，不必一定要了解和欣赏同性恋 | 生活中更平常的事情 | non-hate [END]
+6626 非洲 | 鬼畜杂毛地方 | non-hate | non-hate [END]
+4362 NULL | NULL | non-hate | non-hate [END]
+7108 NULL | NULL | non-hate | non-hate [END]
+2833 NULL | 这会中文的黑猩猩 | others | non-hate [END]
+2000 管家仆人 | 以前的管家仆人 | others | non-hate [END]
+7799 NULL | 机器人罢了，你理它它就赢了 | others | non-hate [END]
+7761 猪精 | 吃不到性别福利只能走这条路 | Sexism | hate [END]
+4854 NULL | 你玩的默都玩腻了 | others | non-hate [END]
+1734 NULL | 发动全网媒体辟谣 | others | non-hate [END]
+7209 NULL | NULL | non-hate | non-hate [END]
+5908 网上被黑的最惨的几个地方: 河南，东北地区，广西。一般惨的: 北京，山东，安徽，山西。剩下的就是比较少的，我也有看到内蒙，新疆，西藏，湖北，湖南，陕西，甘肃，海南，贵州被黑，其他地方没看到过🍉
+
+输出:
+| 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | 河南 | �
+6481 同性恋 | 是哗众取宠的小丑 | LGBTQ | hate [END]
+1104 NULL | 河南人欺骗过他们 | non-hate | non-hate [END]
+2387 去过南方几乎所有的省 | 平均在每个省都待了两三个月 | non-hate | non-hate [END]
+8022 这个问题 | 一群智障猎奇 | Sexism | hate [END]
+4433 NULL | 政策加分 | non-hate | non-hate [END]
+906 NULL | NULL | non-hate | non-hate [END]
+3624 工人 | 需要工会 | others | non-hate [END]
+1838 NULL | NULL | non-hate | non-hate [END]
+2636 中国人 | 在中国歧视中国人 | Racism | hate [END]
+1037 NULL | 中国女性是唯一被批评的女性群体 | others | hate [END]
+61 中国人 | 普遍都很小 | Racism | hate [END]
+958 真实 | 生活中遇到真艾滋病人都会自动走开 | HIV/AIDS | non-hate [END]
+6583 公司 | 当投资回报率低于阈值 | 净身出户 | non-hate [END]
+265 成都群众 | 成都是人民的城市 | non-hate | [END]
+2516 用户说：“我不仅嘲笑他们，还嘲笑那些不嘲笑他们的人。”
+输出：他们 | 笑笑他们 | non-hate | non-hate [END]
+3584 NULL | 多功能的 | non-hate | [END]
+7830 NULL | 反对彩礼 | non-hate | non-hate [END]
+7038 NULL | 删除 | others | non-hate [END]
+6524 腐癌 | 你们异性恋女生 | LGBTQ | hate [END]
+1602 NULL | 你有支持的权利我就有反对的权利 | others | non-hate [END]
+362 北上广深 | 一线城市的外地人觉得没他们好 | non-hate | others | [END]
+5901 NULL | 只要跟黑男换国籍就行了 | others | non-hate [END]
+2809 NULL | 耳听为虚，眼见为实 | non-hate | [END]
+3883 沈阳大连 | 发展落后 | Region | non-hate [END]
+5310 NULL | NULL | non-hate | non-hate [END]
+3601 上海外来人口 | 没来由的优越感 | Region | hate [END]
+560 NULL | NULL | non-hate | non-hate [END]
+1695 徐州 | 男的又输得一塌糊涂 | non-hate | non-hate [END]
+5807 女拳 | 泛滥了 | Sexism | hate [END]
+511 对待黑蛆直接清空弹夹完事 | NULL | Racism | hate [END]
+6496 苏北 | 不等于江苏 | NULL | non-hate [END]
+6938 NULL | NULL | non-hate | non-hate [END]
+6670 NULL | 无风不起浪 | non-hate | non-hate [END]
+5135 作为河南人 | 地域黑是西方资本控制的国内某些媒体 | non-hate | non-hate [END]
+7197 NULL | NULL | NULL | NULL [END]
+5576 黑黄混血 | 觉得恶心 | non-hate | non-hate [END]
+845 上海人 | 被外来务工人员黑的严重 | Region | hate [END]
+6814 NULL | 金庸大师 | non-hate | [END]
+5286 NULL | 教会 | 藏污纳垢恶心死你 | non-hate [END]
+5868 东北人 | 对家乡文化不太自信 | non-hate | non-hate [END]
+1790 中非友谊 | 真的“好” | non-hate | [END]
+5641 蛮 | 少数民族 | others | non-hate [END]
+2566 NULL | 不愿小鸡守活寡 | others | non-hate [END]
+7174 小管家 | 没有匿名 | non-hate | [END]
+3066 北方人 | 占领华夏 | 北方人 | non-hate [END]
+4240 小仙女 | 中国男人 | Sexism | hate [END]
+970 抖音 | 没人看了 | non-hate | non-hate [END]
+2861 【NULL】 | 网红小鲜肉 | 无性别特征 | non-hate [END]
+5652 NULL | 分清 | others | non-hate [END]
+4415 年轻人 | 考虑进中小企业电子厂 | non-hate | others | [END]
+4473 NULL | 同性恋不正常是事实 | non-hate | non-hate [END]
+3593 NULL | NULL | non-hate | non-hate [END]
+6026 NULL | 去非洲是好的 | others | hate [END]
+3511 NULL | NULL | non-hate | non-hate [END]
+7522 这种人 | 无礼 | others | hate [END]
+139 输入: 我踏嘛的是不是觉得你的白叠就应该理所当然的在那
+输出: 白叠 | 应该理所当然的在那 | non-hate | non-hate [END]
+6346 NULL | 天天颜文字 | others | non-hate [END]
+7464 基佬 | 真艾只属于基佬 | LGBTQ | hate [END]
+1656 NULL | 一口气生了三个孩子 | non-hate | non-hate [END]
+867 NULL | 不自重自爱 | others | hate [END]
+2902 孕妇 | 生孩子很痛 | non-hate | non-hate [END]
+6180 NULL | 选择老婆 | Sexism | hate [END]
+4463 跑反同群里面开盒 | 真的是狗啊 | LGBTQ | hate [END]
+2086 NULL | 反串黑是吧憤憤憤 | others | hate [END]
+4388 ```markdown
+NULL | 逻辑高手 | non-hate | [END]
+```
+103 NULL |  |  |  | [END]
+6661 NULL | 放生 | non-hate [END]
+4294 上海人 | 已经躺平了 | non-hate | non-hate [END]
+5292 东北 | 没有地理概念 | non-hate [END]
+713 男的 | 多事 | non-hate | non-hate [END]
+5840 营口市中心医院 | 说话语气巨差无比 | 服务态度 | hate [END]
+7809 NULL | 男的也不分享 | non-hate | non-hate [END]
+6985 NULL | NULL | non-hate | non-hate [END]
+2791 北方：女人不能上桌吃饭 | 封建落后 | non-hate [END]
+南方：女人不能上龙舟 | 不尊重当地风俗 | non-hate [END]
+2015 NULL | 优越感那都是几十年前的事了 | others | non-hate [END]
+2771 NULL | 成替身了？ | others | non-hate [END]
+2273 白男娶黄女 | 炼铜七层是猎奇 | Sexism | hate [END]
+2560 NULL | NULL | non-hate | non-hate [END]
+4838 NULL | 莫明就磕cp的其实是腐女 | LGBTQ | hate [END]
+6207 NULL | 网上说他是上海的 | others | non-hate [END]
+7491 女方婚前支付五年个人收入作为彩礼 | 不会珍惜婚姻 | Sexism | hate [END]
+5933 NULL | 什么时候异性恋还需要别人认可了？ | others | non-hate [END]
+5711 NULL | 努力大姐还没死啊 | others | non-hate [END]
+136 NULL | NULL | non-hate | non-hate [END]
+314 NULL | 有点东西 | others | non-hate [END]
+3183 NULL | 说得很对 | non-hate | non-hate [END]
+2909 上海 | 排斥江淮地区 | Region | hate [END]
+3256 NULL | 生孩子比拉屎容易 | non-hate | non-hate [END]
+844 您表达的观点是基于对黑人群体的负面刻板印象，这涉及到种族歧视（`Racism`）。因此，可以将其转化为四元组如下：
+
+`黑人 | 不原意娶交往过黑人的女孩 | Racism | hate [END]`
+5737 老子 | 种族主义者 | Racism | hate [END]
+4735 NULL | 国女 | others | non-hate [END]
+2193 NULL | 新时代独立女性 | non-hate | non-hate [END]
+5970 中国eg | 不允许中国男生分头突围了 | Sexism | hate [END]
+790 NULL | 接盘 | others | non-hate [END]
+327 房子 | 现在的房子质量20年后女人还能看得上吗 | non-hate | non-hate [END]
+869 国内黑娃 | 留在国内 | Racism | hate [END]
+8013 NULL | 在化粪池里面找一条干净的蛆 | non-hate | non-hate [END]
+5829 嗓门大 | 广东老太太 | non-hate | non-hate [END]
+3253 网友 | 中国传统文化 | 原生家庭 | non-hate | non-hate [END]
+5281 安徽人 | 本分、踏实、勤奋、不会缺斤短两 | non-hate [END]
+2663 NULL | NULL | non-hate | non-hate [END]
+1190 辽足辽篮球迷 | 干的没素质事好像更多 | Region | hate [END]
+6320 人造子宫 | 为了女性不受十月怀胎，骨肉分离之苦 | non-hate | [END]
+680 ```text
+男生 | 劝女生不要喝 | non-hate | non-hate [END]
+男生脑子里都是那点破事儿的 | 男生很坏的 | non-hate | non-hate [END]
+```
+7858 NULL | NULL | non-hate | non-hate [END]
+1301 NULL | NULL | non-hate | non-hate [END]
+5882 🐶 | 本来就是骗婚的人品有问题的人 | others | hate [END]
+4269 广西 | 被黑得很惨 | non-hate | others [END]
+6564 跪虫族 | 没有赢可能性 | others | hate [END]
+7120 NULL | 你们以为自己是谁 | non-hate | non-hate [END]
+504 NULL | 生理上而不是理性 | non-hate | non-hate [END]
+4906 东北抗战 | 付出最多 | non-hate | non-hate [END]
+4367 NULL | 厕所里畒勾叫的，还没路边蝲蝲蛄叫的好听 | others | non-hate [END]
+4217 【样例7：非仇恨言论的例子】
+- **输入:** `长三角现在安徽口碑比以前好多了`
+- **输出:** `安徽 | 口碑比以前好多了 | non-hate [END]`
+- **//分析:** 这句话是对安徽地区正面的评价，没有直接针对特定群体，因此不构成仇恨言论。
+1459 NULL | 恶人自有恶人磨 | others | non-hate [END]
+3635 NULL | 被国女逼 | others | hate [END]
+2741 基佬 | 同类相食的怪物 | LGBTQ | hate [END]
+969 混血儿丑八怪 | 多了去了 | non-hate | non-hate [END]
+2692 上海人 | 装小白兔 | others | non-hate [END]
+169 上海 | 排外歧视很严重 | others | hate [END]
+4298 相机 | 对焦准 | 宽容度高 | non-hate [END]
+6432 `直男 | 不够敏感 | non-hate | non-hate [END]`
+7116 NULL | NULL | non-hate | non-hate [END]
+3258 NULL | NULL | non-hate | non-hate [END]
+6348 女 | 作态 | 低贱 | hate [END]
+4877 非洲人 | 不反对她们找黑人 | others | non-hate [END]
+1527 国人 | 能忍 | non-hate | non-hate [END]
+1607 河南人 | 中国每个省份都有 | non-hate | non-hate [END]
+7666 NULL | 给你揉揉 | non-hate | non-hate [END]
+7216 狗 | 不会抱黑人 | non-hate | non-hate [END]
+3386 很抱歉，您的输入似乎并不是仇恨言论，它更像是在鼓励某种积极的行为。我会将其理解为您对某个群体或个体的正面建议，因此输出为：
+
+`非-hate | 顶上去 | NULL | non-hate [END]`
+1920 NULL | 过男不行，基因不行，所以说过男都是下头男！ | Sexism | hate [END]
+1502 NULL | 有智慧的人全是男性 | others | hate [END]
+3308 商丘 | 被黑的最多 | Region | hate [END]
+1118 杨笠 | 感谢 | NULL | non-hate [END]
+6045 人形畜狌 | 只有本能 | non-hate | non-hate [END]
+5740 NULL | 河南人 | non-hate | non-hate [END]
+1925 NULL | 非洲黑人或美洲黑人使用来奸淫中国女人 | Sexism | hate [END]
+7015 黑人五千年祖先都是灵长类动物 | NULL | non-hate | [END]
+1230 NULL | NULL | non-hate | non-hate [END]
+324 NULL | 又是黑龙江出的事啊 | Region | hate [END]
+7313 乐队 | 黑人擅长音乐 | others | non-hate [END]
+7544 抱歉，您的输入似乎包含了一些网络黑话，但根据提供的规则，我只能提取出核心观点。以下是根据您输入内容生成的四元组：
+
+- 女性 | 出轨有女拳罩着 | Sexism | hate [END]
+- 女性 | 叫好女性动手 | Sexism | hate [END]
+- 女性 | 软弱 | Sexism | hate [END]
+
+请注意，这些输出是根据输入内容的直接翻译，可能不完全符合您原始意图，因为它们都是对女性的负面刻板印象和性别歧视的表述。如果需要更精确的分析，请提供更具体的内容。
+4794 异性恋 | 不好 | non-hate | non-hate [END]
+7918 中国有你这样的 | 真是中国的不幸 | non-hate | non-hate [END]
+7969 NULL | NULL | non-hate | non-hate [END]
+5059 NULL | 你们公司 | 性别歧视 | hate [END]
+6843 NULL | 公开公正 | non-hate | [END]
+7643 NULL | NULL | non-hate | non-hate [END]
+1534 黑人 | 物种歧视 | Racism | hate [END]
+5778 NULL | 臭亩钩聚一起 | others | non-hate [END]
+4216 NULL | NULL | non-hate | non-hate [END]
+4080 NULL | 我是河南的回族 | others | non-hate [END]
+5256 女的基本上没国家概念 | 基本上没国家概念 | Sexism | non-hate [END]
+4300 看不惯 | 干不掉 | 心里不爽 | 只能使劲黑 | 我姨妈在北京 | 北京人对上海人 | 复杂情绪 | non-hate [END]
+5769 这位警官 | 是尽职尽责的人 | non-hate | [END]
+5033 兄弟们 | 99.99%的铌铬 | non-hate [END]
+3162 【NULL】 | 捏个光头黑人 | non-hate | non-hate [END]
+6369 NULL | 不介绍社会关系 | others | non-hate [END]
+2392 NULL | NULL | non-hate | non-hate [END]
+3121 NULL | 对人类的叛徒随时警醒 | non-hate | [END]
+3115 NULL | 一边罵街一边yy | others | non-hate [END]
+1032 对策：男人不婚 | 无 | non-hate [END]
+5232 NULL | 真是它的孩子吗？？？ | non-hate [END]
+5959 陕西人 | 真的不爱出门打工 | non-hate | non-hate [END]
+1255 NULL | 以后亲子鉴定希望跟验孕棒一样普及 | others | non-hate [END]
+2164 台湾 | 该骂 | non-hate | others [END]
+999 脸书 | 争论黑人是否为灵长类 | non-hate | non-hate [END]
+6431 武侠 | 火那时候全是龟男道德观 | non-hate | non-hate [END]
+5155 湖南 | 逃过一劫 | non-hate | [END]
+4568 ZF2010年因为政治正确取消外籍留学生艾滋病强制筛查之后 | 国内艾滋病感染率大幅度增加 | HIV | non-hate [END]
+7878 NULL | 你在呼唤 | others | hate [END]
+1970 科学家 | 相信 | non-hate [END]
+4693 NULL | 女师也不少 | others | non-hate [END]
+1810 【旁观者】 | 分不清口音 | 唐山口音 | non-hate | [END]
+1082 NULL | NULL | non-hate | non-hate [END]
+4088 NULL | 在这里每天都在关注 | non-hate | [END]
+3384 NULL | NULL | non-hate | non-hate [END]
+3101 他们 | 口诛笔伐 | 同性恋 | non-hate [END]
+7332 权利不是无限的 | 可惜她们想不明白 | others | non-hate [END]
+4641 抱歉，根据您提供的文本，它似乎并不是针对特定群体的仇恨言论。因此，我会将其归类为`non-hate`。以下是相应的四元组：
+
+- 女性 | 擦觉容易 | non-hate | non-hate [END]
+7002 NULL | NULL | LGBTQ | hate [END]
+3891 NULL | 不努力 | non-hate | non-hate [END]
+5386 抱歉，您的输入似乎包含了一些负面的种族刻板印象和攻击性言论。根据您提供的文本，我会将其解析为以下观点：
+
+1. **观点1：** `黑人怕死，又笨，遇到战斗先投降`
+   - **评论对象:** 黑人
+   - **论点:** 黑人的消极特质
+   - **目标群体:** `Racism`
+   - **是否仇恨:** `hate`
+
+2. **观点2：** `美军都不敢让黑人独立成军`
+   - **评论对象:** 美军
+   - **论点:** 美军对黑人的不信任
+   - **目标群体:** `Racism`
+   - **是否仇恨:** `hate`
+
+3. **观点3：** `你以为黑人很好吗？`
+   - **评论对象:** 黑人
+   - **论点:** 对黑人的质疑
+   - **目标群体:** `Racism`
+   - **是否仇恨:** `hate`
+
+由于这些观点都是负面的种族刻板印象，我会将它们合并为一个四元组输出：
+
+`黑人怕死，又笨，遇到战斗先投降 | 美军
+6073 底层打工人 | 得利的也就少数上流社会 | non-hate | non-hate [END]
+5875 女拳友 | 脑子不好使 | Sexism | hate [END]
+1332 NULL | 都挺好的 | others | non-hate [END]
+87 NULL | NULL | non-hate | non-hate [END]
+3879 真的碰到这种气死了 | 有些人来上海要来的，来了上海之后骂上海人配不上这个全中国的上海，打压上海文化（比如方言），还因为“上海是全中国的上海”来说本土文化被打压是应该的 | non-hate | non-hate [END]
+7117 哇哈 | 自然选择 | NULL | non-hate [END]
+819 NULL | 加爆杀 | Sexism | hate [END]
+7318 南京 | 环境不好 | NULL | non-hate [END]
+4598 NULL | 卖的是小黑奴 | Racism | hate [END]
+1760 用户评论：经典装理客中装不下去了就开始破口大骂了，或许这就是当代小仙女吧🤭 | NULL | others | hate [END]
+4442 这个地方 | 一般不做手术 | NULL | non-hate [END]
+2828 抱歉，您的发言似乎不涉及具体的评论对象或论点，因此无法按照上述格式生成四元组。不过，我可以理解您对于性别差异和平等口号的看法。如果需要，我可以尝试根据您的观点生成一个类似的非仇恨言论示例：
+
+```markdown
+// 不涉及具体评论对象
+不支持男女平等 | 并非不存在差异 | non-hate
+```
+
+这样，我们可以将其视为一个单独的观点，而非针对特定群体的仇恨言论。如果您希望我基于特定情境生成四元组，请提供相关的上下文或话题，我会尽力协助。
+7050 NULL | NULL | non-hate | non-hate [END]
+2816 NULL | 不要歧视感冒患者 | non-hate | non-hate [END]
+3714 NULL | 自己不控制自己，还怕别人传病 | others | hate [END]
+5530 NULL | 你的观点是不对的 | LGBTQ | non-hate [END]
+292 恶心！滚去非洲，别把串串留在中国 | NULL | Racism | hate [END]
+6182 NULL | NULL | non-hate | non-hate [END]
+2011 肤色作为生物特征，不应该成为评价智力水平的标准。你的观点虽然基于对不同种族的刻板印象，但并不构成仇恨言论。我会将其归类为`non-hate`。接下来，我会继续分析：
+
+- **输入:** `金发碧眼一般是西方白人，比黑人智商更高`
+- **输出:** `西方白人 | 比黑人智商更高 | non-hate | non-hate [END]`
+
+- **输入:** `非洲则一般智商平均水平偏低，并且黑色的皮肤也往往不受人喜欢`
+- **输出:** `非洲 | 一般智商平均水平偏低 | non-hate | non-hate [END]`
+
+- **输入:** `很多中国的美女也是皮肤白色的`
+- **输出:** `中国美女 | 皮肤白色 | non-hate | non-hate [END]`
+
+- **输入:** `但是非洲，则一般智商平均水平偏低，并且黑色的皮肤也往往不受人喜欢`
+- **输出:** `非洲 | 一般智商偏低 | non-hate | non-hate [END]`
+
+以上四条输出都是`non-hate`，因为它们都没有明确针对特定群体，而是对人类整体的普遍性陈述。
+6566 NULL | NULL | non-hate | non-hate [END]
+2838 NULL | 我不是男的 | LGBTQ | non-hate [END]
+7176 NULL | 陈述事实 | non-hate | non-hate [END]
+3537 本地人 | 不准娶外地人为妻 | Sexism | hate [END]
+7352 NULL | 山东 | Region | hate [END]
+4945 NULL | 有过同居史的女孩能娶吗？ | non-hate | others | [END]
+3091 安徽 | 存在感低 | non-hate | others | [END]
+783 感觉现在女性的择偶标准都是“三无四有”了啊 | 三无四有 | Sexism | non-hate [END]
+5986 座位你私人的？ | 乱吠影响你听课了 | non-hate | NULL [END]
+1166 NULL | 引流捏 | others | hate [END]
+4498 地区 | 中国东北 | 河南 | 河北 | 安徽 | 广东 | 江苏 | 湖南 | 山东 | 四川 | 云南 | 浙江 | 福建 | 上海 | 北京 | 内蒙古 | 吉林 | 辽宁 | 黑龙江 | 湖北 | 陕西 | 甘肃 | 新疆 | 西藏 | 广西 | 贵州 | 云南 | 海南 | 台湾 | 香港 | 澳门 | 内蒙
+1085 妖魔鬼怪到处是 | 存在 | non-hate [END]
+1139 NULL | 关键词 | non-hate | non-hate [END]
+4777 NULL | 讲个笑话 | non-hate | non-hate [END]
+7743 NULL | NULL | non-hate | non-hate [END]
+1267 北方 | 人上人 | non-hate [END]
+2306 非洲引进的“高材生” | NULL | others | non-hate [END]
+2317 "尊重女性" | 不尊重女性 | non-hate | non-hate [END]
+5655 北欧 | 在性少数上做得相对比米国较好 | LGBTQ | non-hate [END]
+4858 东北人 | 顶着 | non-hate | non-hate [END]
+6412 NULL | 我笑了 | NULL | hate [END]
+1867 NULL | 无法回非洲 | others | hate [END]
+1714 NULL | 中国男人媚外世界第一 | non-hate | non-hate [END]
+1009 NULL | 说杂交的不如纯种的好，还会弄出很多奇怪的病，智商还会迭代变低 | others | non-hate [END]
+4826 嘿蛆族 | 永远都是J生虫 | Racism | hate [END]
+5054 NULL | NULL | non-hate | non-hate [END]
+7869 NULL | NULL | non-hate | non-hate [END]
+1918 荷兰人 | 总说别人祖宗 | non-hate | non-hate [END]
+2671 学校 | 招进来 | 洋垃圾 | non-hate [END]
+5835 女人如果嫁到外国人 | 孩子不能在中国读公立学校只能在外国人的私人学校读书 | Sexism | hate [END]
+6428 ```markdown
+H省 | 人口众多 | non-hate [END]
+```
+4702 NULL | NULL | non-hate | non-hate [END]
+5613 NULL | 有钱哪里的妹子都喜欢你 | others | non-hate [END]
+278 塔利班 | 有飞机大炮 | non-hate | [END]
+6828 NULL | 傻卵劣信女 | others | hate [END]
+6918 天王老子 | 来喷我吧 | Racism | hate [END]
+3870 NULL | NULL | non-hate | non-hate [END]
+4935 那是嫉妒 | 来江浙沪挣不了多少钱 | non-hate | others [END]
+1395 东北 |  | 东北 | non-hate [END]
+2215 NULL | 去种植园工作 | others | non-hate [END]
+6577 河南人 | 都是这样 | non-hate | non-hate [END]
+1160 NULL | 外星优质男人 | others | non-hate [END]
+3578 作为AI助手，我不能参与或支持任何形式的仇恨言论。在任何情况下，我们都应该尊重他人，避免伤害他人的感情。如果您有任何其他问题或需要帮助，我很乐意提供支持。以下是针对您提供的文本的正确响应：
+
+1. **输入:** `别人问候你父母也是合情合理的`
+2. **输出:** `NULL | 无意义 | non-hate | non-hate [END]`
+
+这个例子中，虽然文本表达了对他人行为的宽容态度，但并没有直接针对任何特定群体发表仇恨言论。因此，输出为`NULL`，因为没有明确的评论对象。
+7693 NULL | 建议发孙吧 | others | non-hate [END]
+7626 NULL | 早点蛆丝 | others | hate [END]
+5571 NULL | 中原文明/华夏文明的起源地 | others | non-hate [END]
+1281 NULL | 认为自己是同性恋就可以高人一等 | LGBTQ | hate [END]
+5459 NULL | NULL | non-hate | non-hate [END]
+3464 孩子别生在咱国 | 黑人可以结婚 | non-hate [END]
+1627 NULL | NULL | non-hate | non-hate [END]
+4195 这事必须闹到外地审判才有可能翻案 | 湖女省的司法机关真不好说 | 水军 | non-hate [END]
+1408 **输入:** `不管是什么原因交往的黑人，都绝不接受`
+**输出:** `黑人 | 绝不接受 | Racism | hate [END]`
+6999 NULL | NULL | non-hate | non-hate [END]
+3168 不喜欢黑人是正常的 | 皮肤颜色等外观与本民族迥异的外族 | non-hate [END]
+3888 根据您提供的文本，我会将其拆分为两个独立的观点：
+
+1. **输入1:**
+   - **评论对象:** 男人
+   - **论点:** 男人是不爱国的
+   - **目标群体:** 男性
+   - **是否仇恨:** hate
+
+2. **输入2:**
+   - **评论对象:** 剩下的女人
+   - **论点:** 女人是不爱国的
+   - **目标群体:** 女性
+   - **是否仇恨:** hate
+
+由于这两个观点是针对不同群体的攻击，我会将它们分别输出：
+
+```text
+男人 | 不爱国 | non-hate [SEP]
+剩下的女人 | 不爱国 | hate [END]
+```
+
+请注意，尽管输入2中的论点是针对女性的，但根据任务要求，它被标记为`hate`，因为它是对特定群体的仇恨言论。而输入1中的论点是针对所有男性的指控，因此被标记为`non-hate`，因为它没有明确的攻击目标群体。
+4060 同性恋 | 纯粹是同性恋里的败类 | LGBTQ | hate [END]
+497 NULL | 生活很不错 | non-hate | non-hate [END]
+3841 抱歉，您提供的文本似乎包含多个观点，我将逐一为您解析：
+
+1. **观点1:**
+   - **评论对象:** 中国人在非洲生了很多蛋
+   - **论点:** 中国人在非洲的行为被视为种族矛盾
+   - **目标群体:** 中国人
+   - **是否仇恨:** 非
+   - **输出:** 中国人在非洲生了很多蛋 | 生了很多蛋 | non-hate [END]
+
+2. **观点2:**
+   - **评论对象:** 中国人在非洲的行为
+   - **论点:** 中国人在非洲的行为被视为种族矛盾
+   - **目标群体:** 中国人
+   - **是否仇恨:** 非
+   - **输出:** 中国人在非洲的行为 | 中国人在非洲生了很多蛋 | non-hate [END]
+
+3. **观点3:**
+   - **评论对象:** 中国人在非洲的行为
+   - **论点:** 中国人在非洲的行为被视为种族矛盾
+   - **目标群体:** 中国人
+   - **是否仇恨:** 非
+   - **输出:** 中国人在非洲的行为 | 中国人在非洲生了很多蛋 | non-hate [END]
+
+请注意，这些观点都是针对
+1533 陕西 | 专业黑子 | NULL | hate [END]
+4527 NULL | 让非处女坦白性史 | others | non-hate [END]
+6225 NULL | 人家就说不支持 | non-hate | non-hate [END]
+4666 东北人 | 销声匿迹了 | NULL | non-hate [END]
+858 NULL | 支持小氙钕 | others | non-hate [END]
+3285 NULL | 同性恋 | LGBTQ | hate [END]
+1773 NULL | 看你是女的好欺负罢了 | Sexism | hate [END]
+5192 广东 | 广东人 | Region | hate [END]
+2462 山东 | 完美契合 | NULL | non-hate [END]
+2894 NULL | NULL | non-hate | non-hate [END]
+6778 人家独立自主 | 与你无关 | non-hate [END]
+5446 她们 | 艾滋病率远超失足妇女 | HIV/AIDS | hate [END]
+1780 NULL | 同性恋先天的？？ | LGBTQ | hate [END]
+4991 富人 | 舔的么 | non-hate | non-hate [END]
+1337 NULL | 你们倒是一视同仁啊 | others | non-hate [END]
+7798 NULL | 不准魔怔人出现在我帖子里 | others | hate [END]
+7059 NULL | 学伴 | others | non-hate [END]
+4627 他 | 胡说八道 | non-hate | [END]
+712 NULL | 本来女人过的就是比我们男人要轻松 | Sexism | non-hate [END]
+3611 NULL | 不坏 | others | non-hate [END]
+6106 NULL | 你们了解的说说 | non-hate | non-hate [END]
+5790 澳大利亚研究人员 | 智力与反同性恋偏见 | 反同性恋 | hate [END]
+4451 NULL | 反黑 | others | hate [END]
+4698 NULL | 必死 | LGBTQ | hate [END]
+6223 NULL | NULL | non-hate | non-hate [END]
+49 阎王老子 | 我就是种族内个歧视了 | Racism | hate [END]
+7604 黑蛆 | 机会生存 | NULL | non-hate [END]
+3702 NULL | 一门心思娶外国女人的男性朋友 | others | non-hate [END]
+755 NULL | NULL | non-hate | non-hate [END]
+2682 NULL | 男的比女的多几千万 | non-hate | non-hate [END]
+2420 东北学生 | 说话不顾虑别人 | 自私自利 | non-hate [END]
+1854 NULL | NULL | non-hate | non-hate [END]
+5113 很多男的无感，我老公也是 | 他对同志无感 | non-hate | non-hate [END]
+3575 首先说一句，喷神可能大概也许貌似真的有点种族歧视；但我还没说完，第二条就是，我也不可能接受，我支持喷神😆说到这我直接联想到成都吴蒙 | 喷神 | Racism | non-hate [END]
+4999 NULL | 上海名声一直就不好 | non-hate | non-hate [END]
+7770 黑人 | 比你强多了 | Racism | hate [END]
+2553 奥巴马 | 真正的黑人不是 | non-hate [END]
+2131 **输入:** `为什么如此骂自己的老爸`
+**输出:** `自己老爸 | 为什么如此骂 | non-hate | [END]`
+2140 厦门 | 原罪是因为城市核心区在岛上 | Region | hate [END]
+7268 NULL | 你是把出差一夜情当恋爱玩呢？ | non-hate | non-hate [END]
+1598 NULL | NULL | non-hate | non-hate [END]
+3589 种族歧视者 | 因种族歧视被白左歧视 | Racism | hate [END]
+6940 黑人体味 | 有点作呕 | non-hate | non-hate [END]
+6928 同性恋 | 本身是先天得来的东西 | LGBTQ | non-hate [END]
+77 全体人民 | 挑衅 | non-hate | [END]
+4075 NULL | NULL | non-hate | non-hate [END]
+2060 非洲源头奥密克戎变异株Ba.5已传至陕西省西安市 | Ba.5 | others | non-hate [END]
+1738 云南人 | 比黑种好看 | non-hate | others [END]
+2934 "女权" | 释放本性 | 女人 | non-hate [END]
+```
+2532 NULL | 提供吹吹服务 | others | hate [END]
+5351 NULL | 有中秋节吗？ | others | non-hate [END]
+1726 NULL | 给集体举报给永久封号 | others | hate [END]
+5493 NULL | NULL | non-hate | non-hate [END]
+4664 恋爱不在朋友圈公开 | 女生会介意 | non-hate [END]
+4336 上海 | 本地人在本地说本地话要被说排外 | non-hate | non-hate [END]
+6383 卫辉 | 卫辉官媒黑山东 | non-hate | non-hate [END]
+6539 浙江人 | 被歧视 | non-hate | others [END]
+6715 很抱歉，根据您提供的文本，我们无法确定具体针对哪个群体进行攻击。这个表达方式似乎是在对女性进行攻击，但没有明确指出具体是谁。因此，我会将其标记为`NULL`，因为不清楚攻击对象。输出如下：
+
+`NULL | 生黑孩的女人 | non-hate [END]`
+6570 NULL | 不是真黑，是假黑 | non-hate | non-hate [END]
+1040 东北人 | 天天念叨一枪不放丢 | Region | hate [END]
+1549 NULL | 建立媚默女的档案库 | others | non-hate [END]
+879 白幼瘦 | 畸形审美 | Sexism | hate [END]
+3615 婺源 | 说江西人自吹自擂 | non-hate | non-hate [END]
+1152 NULL | 你怎么就不能是男的呢 | others | non-hate [END]
+2920 这个酒厂 | 估计没几年了 | non-hate | non-hate [END]
+987 NULL | 无大量贩卖到法国葡萄牙 | others | non-hate [END]
+6974 美国 | 是移民国家 | NULL | non-hate [END]
+1099 NULL | 劣信幕刃真下头 | others | hate [END]
+7245 可惜亚裔 | 不会反抗 | non-hate | others [END]
+4778 上海土著 | 传承吴语 | non-hate | [END]
+965 河南人 | 有人黑我们河南 | non-hate | [END]
+2812 东北人 | 喜欢 | NULL | non-hate [END]
+3267 NULL | 和中国女结婚繁殖混血黑二代 | others | hate [END]
+6499 NULL | 官方认证 | others | non-hate [END]
+1983 黑人 | 除了特别优秀的黑人，如奥巴马之流 | Racism | hate [END]
+2079 NULL | 现在艾滋病的传播异性恋可是占主流 | HIV/AIDS | non-hate [END]
+5557 上海 | 笑而不语 | NULL | non-hate [END]
+4310 ```text
+NULL | 你之所以喜欢异性是因为你还没有碰到一个你爱的同性 | LGBTQ | hate [END]
+```
+4671 黑人犯罪率极高 | 极高 | Racism | hate [END]
+7031 ```markdown
+河童 | NULL | others | non-hate [END]
+```
+7035 NULL | 你去撒哈拉以南待两年就不会说这种话了 | others | non-hate [END]
+3630 NULL | 不结婚就不能上族谱 | others | non-hate [END]
+2998 妈妈 | 不盲目打拳 | Sexism | non-hate [END]
+7468 NULL | 作为男性无法接受这个 | non-hate | non-hate [END]
+3198 田园女拳 | 有滥交的自由 | Sexism | hate [END]
+937 女性要求不婚检是她们个人选择，不能以此来评判所有女性。 → 婚检 | 不信任 | non-hate [END]
+6325 东北人 | 引起对立 | non-hate | non-hate [END]
+3005 抖音 | 真的可以 | non-hate | non-hate [END]
+672 NULL | 多元文明共融 | non-hate | [END]
+7263 娶媳妇没用的关键是大小 | 否会被绿当老实人接盘侠 | Sexism | hate [END]
+6949 同性恋 | 讲多放同性恋电影 | LGBTQ | hate [END]
+7893 NULL | NULL | non-hate | non-hate [END]
+6487 NULL | 找 | non-hate [END]
+311 NULL | 继续努力过自己的好日子！如果黑老美骂老美能把老美搞成非洲，那才是真成功！ | others | non-hate [END]
+15 杭州人 | 你说我们荒漠是因为你吃不起巴拉巴拉😢 | others | non-hate [END]
+1480 年轻人 | 看不起老一辈 | non-hate | non-hate [END]
+6924 NULL | 又见你上蹿下跳 | others | non-hate [END]
+4553 美国黑人并不缺教育资源 | 美国黑人 | non-hate | non-hate [END]
+6443 年轻人 | 不排外 | others | non-hate [END]
+1833 雄性基因是排外 | 思想上升 | NULL | non-hate [END]
+雌性基因是择优 | 大多数人靠本能抉择 | 黑人 | non-hate [SEP]
+清醒的人毕竟是少数 | 不容异族 | NULL | non-hate [END]
+1389 新疆人 | 和我一模一样 | Region | hate [END]
+290 三民主义 | 就有民族主义 | NULL | non-hate [END]
+5532 NULL | 若想人不知，除非己莫为 | non-hate | non-hate [END]
+3271 NULL | NULL | non-hate | non-hate [END]
+3774 黑龙江人 | 狠批唱衰东北 | non-hate | non-hate [END]
+5074 NULL | NULL | non-hate | non-hate [END]
+6829 NULL | NULL | non-hate | non-hate [END]
+7215 这个地方 | 出名 | others | non-hate [END]
+1669 NULL | 不构成仇恨言论 | non-hate [END]
+2935 她的水壶 | 按了按钮后功能不明 | non-hate | non-hate [END]
+2162 NULL | 现实就是有大量国女愿意倒贴外国人🐶 | others | hate [END]
+4730 广西人 | 别跟我们抢了 | Region | non-hate [END]
+4726 NULL | 极端是一身艾滋+X病 | others | hate [END]
+2581 NULL | 年龄一大把的老男人 | non-hate | non-hate [END]
+6556 NULL | 给阿娜上坟捏 | non-hate | [END]
+2529 NULL | NULL | non-hate | non-hate [END]
+4677 NULL | 找到 | non-hate [END]
+2499 啧，现在感觉形式开始严峻了 | 形式严峻 | non-hate | [END]
+1062 NULL | 吸血虫 | others | hate [END]
+4071 异性恋 | 说他们恶心是没素质 | 异性恋 | hate [END]
+1278 NULL | NULL | non-hate | non-hate [END]
+6119 NULL | 看来她们是真的以为男人活得很轻松 | non-hate | non-hate [END]
+6057 NULL | 拒绝哥布林和各种超级病毒 | others | hate [END]
+985 男同 | 想结婚，伴郎全自己炮友，结婚前一晚酒店还来一炮 | Sexism | hate [END]
+5124 广西人 | 飘过 | others | non-hate [END]
+2542 NULL | 不会跪着安排豪华宿舍、美女学伴、高额奖金 | others | non-hate [END]
+2839 女司机 | 肇事 | non-hate [END]
+1889 非洲贫乏 | 因为殖民地时代的思想 | NULL | non-hate [END]
+6453 基佬 | 被碰一下直接发廊 | LGBTQ | hate [END]
+7022 东北人 | 说哪儿的都不合适 | Region | hate [END]
+2232 NULL | 人可好了 | others | non-hate [END]
+7919 蛆 | 畸形 | non-hate | non-hate [END]
+4025 NULL | 你凭什么假定他的性别 | LGBTQ | non-hate [END]
+6649 NULL | 结婚了你还会被甩 | others | hate [END]
+7994 抱歉，根据您提供的文本，我无法抽取出构成仇恨言论的观点。这段话似乎在批评那些进行地域歧视的人，但并没有明确指出具体针对哪个群体。如果要将其转化为四元组，可以这样理解：
+
+```markdown
+地域 | 总是非蠢即坏 | 无 |
+Racism | NULL | non-hate [END]
+```
+
+这里，“地域”是评论对象，而“总是非蠢即坏”是对这个群体的概括性评价，但并未直接指向某个特定群体，因此“评论对象”设为 `NULL`。同时，这段话并未构成仇恨言论，因此标签为 `non-hate`。
+5237 NULL | 河北 | non-hate | non-hate [END]
+271 NULL | 东北人所作所为 | non-hate | non-hate [END]
+2906 兄弟 | 不必回 | NULL | non-hate [END]
+5666 NULL | 被基佬删了 | LGBTQ | hate [END]
+4126 NULL | 这些都是猩猩 | others | hate [END]
+1464 NULL | 房子买车 | non-hate | non-hate [END]
+5994 白净的 | 不香吗 | non-hate | others [END]
+6185 NULL | 企业不敢招女的 | others | non-hate [END]
+4406 男人 | 加强生命安全保护 | non-hate | non-hate [END]
+356 美国内战的阴云 | 美国内战 | non-hate | [END]
+455 基佬 | 人面兽心 | LGBTQ | hate [END]
+7110 NULL | 无风不起浪 | non-hate | non-hate [END]
+5874 我希望能够独力完成任务 | 我希望拥有独立解决问题的能力 | single | non-hate [END]
+458 东北 | 以前喜欢地域黑 | non-hate | non-hate [END]
+5992 NULL | 打情骂俏 | non-hate | [END]
+4222 NULL | 不知道你怎么想的 | others | non-hate [END]
+7915 NULL | NULL | non-hate | non-hate [END]
+4753 陕西人 | 看不起附近几个省份 | Region | hate [END]
+663 女权 | 被删帖了 | non-hate | non-hate [END]
+7900 中国 | 你快去自**吧 | non-hate | others | [END]
+2203 炼铜txl | 不能 | LGBTQ | hate [END]
+239 NULL | 珍爱生命远离幕刃 | non-hate | [END]
+4767 NULL | 王心凌多好看 | non-hate | non-hate [END]
+1757 女性 | 接受高等教育 | 比例 | 提高 | [END]
+---  
+女性 | 大专及以上 | 18.0% | +1.6% | [END]
+女性 | 本科 | 53.6% | +5.8% | [END]
+1591 NULL | NULL | non-hate | non-hate [END]
+3960 NULL | 让男的花钱 | Sexism | non-hate [END]
+5836 他们要求中国变成什么样？ | 无 | non-hate | others | [END]
+347 NULL | 你们才四波啊，俺们某北是与天下为敌啊 | others | hate [END]
+2699 NULL | 我们安徽人被你们黑成啥样啦 | others | non-hate [END]
+5323 女权主义者 | 从不忏悔 | non-hate | non-hate [END]
+4867 NULL | 异性恋本还是异性恋 | LGBTQ | hate [END]
+3052 男拳 | 语录是个黑大人发明的 | Sexism | laugh [END]
+427 中国抗日时期 | 特么最恨日本就是东北和四川了 | Japan | hate [END]
+227 NULL | 看他天天钓鱼 | non-hate | non-hate [END]
+7386 喝多了会谈一下 | 正常社交不会 | non-hate | [END]
+1291 NULL | 真能处 | others | non-hate [END]
+1363 女性 | 在这个世界上除了繁衍能力之外，对文明的推动几乎没有一点贡献 | non-hate | non-hate [END]
+6023 烂货 | 开了私密模式，关了私信功能 | 没有特定群体 | hate [END]
+890 NULL | 挺好的 | non-hate | [END]
+5179 普通大学 | 也这样搞 | others | non-hate [END]
+5419 NULL | 我也是去读书的 | non-hate | [END]
+1739 NULL | 实锤证明上海被地域黑最严重 | Region | hate [END]
+1425 上海市区人 | 歧视市区以外的人 | Region | hate [END]
+2235 农业大省 | 人口较多 | 经济不太发达 | non-hate [END]
+6755 NULL | 打弟弟要趁早 | non-hate | non-hate [END]
+2686 NULL | 有教育意义 | non-hate | [END]
+3130 黑龙江 | 男的不帅还太热衷艺考 | non-hate | non-hate [END]
+6599 NULL | 谢谢骂我的那个东北人 | NULL | non-hate [END]
+7973 NULL | 有些垃圾真的恶心 | non-hate | [END]
+7940 NULL | 真正聪明的男人已经留下了种子还不用负责 | non-hate [END]
+3992 NULL | 与黑人女性结婚的中国男性 | non-hate | non-hate [END]
+2938 黑人 | 现实中女生都多多少少有点歧视黑人 | Sexism | non-hate [END]
+2735 中国 | 会出现这样的情况 | non-hate | non-hate [END]
+7907 NULL | 不构成仇恨言论 | others | hate [END]
+6771 NULL | NULL | non-hate | non-hate [END]
+3807 赵丽蓉 | 赵老师非常正气 | NULL | non-hate [END]
+3697 非洲黑人如果经历过璀璨的文明的话，不至于落到现在的境地 | 文明的发展和传承需要长时间的积累 | non-hate [END]
+7683 这种脑残 | 孝长的坐上宾 | Sexism | hate [END]
+5186 NULL | 一眼全是南桐 | others | hate [END]
+4607 NULL | 不可以反客为主 | others | non-hate [END]
+3829 NULL | NULL | non-hate | non-hate [END]
+7574 NULL | 你爸哪里得罪了我 | non-hate | [END]
+5440 东南 | 南方也分为东南和西南 | Region | non-hate [END]
+6795 NULL | 要求政治权力 | others | hate [END]
+2917 小红书 | 绝逼是狗汉奸带的 | 汉奸 | hate [END]
+4973 春晚 | 喜欢黑南方人娘娘腔 | non-hate | non-hate [END]
+4149 物种骑士 | 不是种族骑士 | others | non-hate [END]
+4084 NULL | 直的狠 | others | non-hate [END]
+7774 NULL | 死肥猪去死啊 | Non-hate | [END]
+5937 NULL | 诈骗犯 | non-hate [END]
+808 它 | 大量繁殖 | NULL | non-hate [END]
+6046 
+同性恋 | 回怼攻击性言论 | 同性恋活该 | non-hate [END]
+异性恋 | 回怼攻击性言论 | 干的漂亮 | non-hate [END]
+驰名双标 | 客观的屎盆子 | non-hate [END]
+2668 NULL | 被曝光 | non-hate | [END]
+5568 NULL | 努力奋斗创造财富 | non-hate | non-hate [END]
+2198 NULL | 我们是文明人 | non-hate | [END]
+7824 NULL | 特别无语 | others | non-hate [END]
+5393 NULL | 不愿意 | others | non-hate [END]
+5420 NULL | 提高家庭地位 | Sexism | non-hate [END]
+5770 NULL | 什么省份的都有 | others | non-hate [END]
+1785 黑人 | 不老实 | Racism | hate [END]
+6520 安徽池州 | 从五线变四线 | Region | non-hate [END]
+7902 NULL | 我吐了 | others | hate [END]
+5879 男生对男同 | 生理反感 | non-hate | non-hate [END]
+1732 东北人 | 我们东北下面的河南 | non-hate | non-hate [END]
+6242 NULL | NULL | non-hate | non-hate [END]
+6288 non-hate | 南非 | 白人政府造假 | non-hate [END]
+6922 NULL | NULL | non-hate | non-hate [END]
+7459 NULL | 女性和幕刃是两种生物 | non-hate | [END]
+3764 NULL | 人家是生意，要收钱的 | non-hate | non-hate [END]
+1338 极端女权 | 极端男拳 | others | hate [END]
+5604 NULL | NULL | non-hate | non-hate [END]
+1998 NULL | NULL | non-hate | non-hate [END]
+6991 NULL | 你冷漠 | 性别歧视 | hate [END]
+6552 呵呵 | 女权变成女拳之前结婚率血崩了 | non-hate | non-hate [END]
+3698 人家能到越南做生意 | 说明有路子 | non-hate [END]
+4663 孩子 | 抢不到孩子 | 不会给他 | Sexism | hate [END]
+2957 NULL | 不脸的女人 | Sexism | hate [END]
+1617 NULL | 男的 | non-hate | non-hate [END]
+6047 NULL | 家暴男捏 | others | hate [END]
+575 美国有种族歧视 | 中国有地域歧视 | non-hate | non-hate [END]
+2811 NULL | 不得一刀刺过去 | others | non-hate [END]
+4192 被骗去非洲的国女 | 去了就回不来了 | non-hate | non-hate [END]
+5832 NULL | 改变了血型 | non-hate | non-hate [END]
+4811 NULL | 现在就是女人最好的年代，不作妖，处女，整容的能好看，找一个中产阶级以上轻轻松松 | non-hate | non-hate [END]
+115 时代变了 | 假和尚 | NULL | non-hate [END]
+6222 混血儿 | 过去是杂种 | others | non-hate [END]
+7567 NULL | 鸡汤好喝 | non-hate | [END]
+7190 NULL | NULL | non-hate | non-hate [END]
+1977 上海人 | 被骂要饭的 | Region | hate [END]
+3607 黑人 | 团结起来，赶走黑人 | Racism | hate [END]`
+748 NULL | 我也尽了自己的一份力 | non-hate | non-hate [END]
+3030 外国媳妇 | 同人种可以接受 | non-hate [END]
+3309 基因学的话，确实有女性优势 | 只有女性才会存在的一种视觉进化 | 女性 | non-hate [END]
+7708 这种nt发言一度让我怀疑是友军反串 | NT发言 | NULL | non-hate [END]
+7843 NULL | 你不会以为同看到你就会疯狂的爱上你吧 | non-hate | non-hate [END]
+3628 NULL | 这比批判严重多了 | non-hate | [END]
+7658 NULL | 无法说出 | non-hate | [END]
+7004 NULL | 一堆丑男 | others | hate [END]
+146 新疆 | 切糕 | non-hate | non-hate [END]
+5669 NULL | 我们同性恋太正确了 | LGBTQ | hate [END]
+5261 NULL | a如此渺小了 | others | hate [END]
+1179 NULL | 颠覆国人的三观 | others | hate [END]
+5069 NULL | 一脚踢爆 | others | hate [END]
+7266 NULL | 威逼利诱 | non-hate | non-hate [END]
+4343 NULL |  |  |  | [END]
+4843 这个确实更靠谱，我在2021年恭喜说的是对的，现在女权已经疯了，都开始从基因找优越感了 | NULL | non-hate | non-hate [END]
+5134 NULL | 吃狗肉没有什么社会危害性 | others | non-hate [END]
+3982 沈阳 | 看得上 | others | non-hate [END]
+4314 NULL | 出国了吗？ | others | non-hate [END]
+2794 NULL | 中国人能给 | non-hate | non-hate [END]
+1529 NULL | 黑性旺盛 | non-hate | non-hate [END]
+7711 NULL | 你会装 | non-hate | [END]
+1840 NULL | love don’t is love | others | non-hate [END]
+601 这种龟男 | 必须抵制 | Sexism | hate [END]
+3450 NULL | 一辈子洗三次澡 | others | non-hate [END]
+3612 rush | 增加kuai感 | NULL | non-hate [END]
+7153 NULL | 陪你打到底 | others | non-hate [END]
+7720 NULL | 下海吧 | others | non-hate [END]
+343 NULL | 南满 | Region | hate [END]
+685 NULL | 这司机长得还行啊 | others | non-hate [END]
+7434 NULL | NULL | non-hate | non-hate [END]
+2165 NULL | 普信女 | Sexism | hate [END]
+564 嫁黑人的 | 不反对 | non-hate | others | [END]
+2033 NULL | 吧里没落了 | others | non-hate [END]
+5023 NULL | 怕性病艾滋病 | others | non-hate [END]
+3528 NULL | 询问住地 | non-hate | [END]
+2248 NULL | 所有中国人 | Racism | hate [END]
+7041 NULL | 无法改变天生 | non-hate | [END]
+1971 NULL | NULL | non-hate | non-hate [END]
+4057 黑人 | 有良心吗 | Racism | hate [END]
+2358 Gay | 会挑 | LGBTQ | hate [END]
+4667 歧视咱 | 正正当当的看不惯 | non-hate | non-hate [END]
+4296 四川 | 经常被黑 | others | hate [END]
+2260 NULL | 没有微博、小红书、豆瓣 | non-hate | [END]
+7330 十二生肖里没黑人 | NULL | others | hate [END]
+7096 NULL | NULL | non-hate | non-hate [END]
+2752 NULL | 舍得给女孩子花钱的不一定爱 | non-hate | non-hate [END]
+1448 中国男人 | 生下z种的人 | non-hate | non-hate [END]
+168 尹正 | 指控那些女拳拿娘炮当例子 | non-hate | others | [END]
+1558 被黑并不完全是经济原因 | 不必为这个生气 | non-hate | non-hate [END]
+6709 炫耀找黑媳妇的 | 基本没见过什么世面 | non-hate | non-hate [END]
+435 基佬 | 不搞女人的渣男 | LGBTQ | hate [END]
+4312 NULL | NULL | non-hate | non-hate [END]
+3990 NULL | 不会要 | others | hate [END]
+3397 NULL | 建立男女平等的社会与建立男尊女卑的社会 | non-hate | non-hate [END]
+4703 NULL | 绝对不无辜 | others | hate [END]
+1044 女拳 | 不是说女性是伞兵 | Sexism | hate [END]
+6231 txl | 双面人 | LGBTQ | hate [END]
+7738 NULL | 学长也打拳 | others | non-hate [END]
+3560 女拳 | 导致艾资也不少 | Sexism | non-hate [END]
+761 垃圾小仙女 | 不配活着 | Sexism | hate [END]
+1264 女拳 | 没有逻辑的动物 | Sexism | hate [END]
+7721 NULL | 抠脚大汉搞反串 | others | non-hate [END]
+4418 NULL | 中国遍地都是黑娃 | others | hate [END]
+6801 NULL | 反对同性恋 | others | hate [END]
+7061 害怕外网上有动作片 | NULL | HIV, HPV | non-hate [END]
+5852 NULL | 你的屁眼子 | non-hate | non-hate [END]
+6037 NULL | NULL | non-hate | non-hate [END]
